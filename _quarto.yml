@@ -3,12 +3,13 @@ project:
   output-dir: docs
 
 website:
-  title: "asdf"
+  title: "PATHOME"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - people.qmd
 
 format:
   html:
