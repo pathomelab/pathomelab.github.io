@@ -18,7 +18,5 @@ format:
     theme: slate
     css: styles.css
     toc: true
-    toc-location: left
-    toc-title: "Research groups:"
 
 
