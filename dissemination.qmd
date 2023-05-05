@@ -1,0 +1,25 @@
+---
+title: "Dissemination"
+bibliography: SewellBibFiles.bib
+---
+
+1. Adaptation of geotrackers
+1. Protocol paper
+1. Policy landscape preparedness for urban socio-development
+1. geotracker validation instrumentation reliability
+1. stat methods for dx errors in prevalence, incidence, and clearance rates
+1. soil microbial method validation
+1. MV spatio-temporal hurdle model for pathogens
+1. Behaviors- freqs and locs of infant exposure by nbhd, city, and age
+1. quant zoonotic and enviro micro
+1. indicators of wealth and societal development
+1. pathogen prevalence incidence and persistence in infant's gust and self reported diarrhea rates
+1. geotracker movement by nbhd, city, age, species
+1. spatiotemporal correlation patterns in pathogen prev inc and pers in nbhd soil, water
+1. diarrhea and pathogen by study design and risk factors
+1. flood precipitation
+1. pathome environmental exposures across pathways
+1. primary outcome abm to compare relative importance of pathways
+1. primary outcome abm to compare interventions
+1. insights policy recommendations
+1. insights from stakeholder and comm engagement
