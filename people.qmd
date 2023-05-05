@@ -5,6 +5,7 @@ format:
     toc: true
     toc-location: left
     toc-title: "Research groups:"
+    theme: slate
 ---
 
 # University of Iowa
