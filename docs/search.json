@@ -4,13 +4,13 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "Enteric infections remain the second leading cause of diarrheal morbidity and mortality globally in children, despite significant improvements in access to latrines and safe water sources in high disease burden countries. Our prior research has demonstrated that the “enteric pathome” - i.e. the communities of viral, bacterial, and protozoan pathogens transmitted by human and animal feces in the environment - ingested by children living in low-income urban neighborhoods of Kenya is taxonomically complex and varies by exposure pathway. Our preliminary data indicates that the risk of multi-pathogen infection is elevated among those 6- month old Kenyan infants fed cow’s milk and living in urban households with dirt floors, shared latrines, and cohabitating domestic animals. This suggests multiple aspects of societal development beyond latrines and water sources are required to reduce complexity in pathogen transmission in high burden countries. We hypothesize that joint modeling of enteric pathome agents across households and neighborhoods that represent contrasts in urban societal development will show that development leads to pathome evolution from complex to simple community structures, and thus lower detection frequencies for individual pathogen taxa.\nUnderstanding the evolution in pathome complexity induced by societal development and subsequently identifying effective intervention strategies is challenging since field experiments are expensive to implement, difficult to generalize to other settings, are only informed by existing, limited observational data, and sufficiently sophisticated statistical and mathematical pathome modeling tools are not currently available. The PATHOME project aims to\n\ndevelop spatiotemporal and trajectory statistical models to understand the complex exposure risks for infants from the enteric pathome,\ncollect environmental, behavioral, spatial, economic, and microbial data to characterize the enteric pathome along pathways for disease diffusion and the intersection of humans and animals with these pathways, and\ndevelop and validate agent-based models (ABMs) for predicting which social and environmental urban developmental interventions (e.g. animal penning, building latrines or drains, concrete floors) best prevent multi-pathogen transmission to infants in high disease burden countries using established Kenyan study sites as a model.\n\nOur interdisciplinary team includes a biostatistician, infectious disease epidemiologists, microbiologist, computational scientist, behavioral researcher, and urban development geographer"
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "PATHOME",
+    "title": "asdf",
     "section": "",
-    "text": "Pathogen Transmission and Health Outcome Models of Enteric Disease"
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
   }
 ]
