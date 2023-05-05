@@ -1,0 +1,8 @@
+---
+title: ""
+image: img/pathome_logo.png
+about:
+  template: jolla
+---
+
+**Pa**thogen **T**ransmission and **H**ealth **O**utcome **M**odels of **E**nteric Disease
