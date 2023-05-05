@@ -1,5 +1,10 @@
 ---
 title: "People"
+format:
+  html:
+    toc: true
+    toc-location: left
+    toc-title: "Research groups:"
 ---
 
 # University of Iowa
