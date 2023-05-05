@@ -11,10 +11,11 @@ website:
       - about.qmd
       - people.qmd
       - dissemination.qmd
+      - related_work.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: slate
     css: styles.css
     toc: true
 
