@@ -1,11 +1,8 @@
 ---
-title: "asdf"
+title: ""
+image: pathome_logo.png
+about:
+  template: jolla
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+**Pa**thogen **T**ransmission and **H**ealth **O**utcome **M**odels of **E**nteric Disease
