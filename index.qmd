@@ -1,6 +1,6 @@
 ---
 title: ""
-image: pathome_logo.png
+image: img/pathome_logo.png
 about:
   template: jolla
 ---
