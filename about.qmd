@@ -2,6 +2,9 @@
 title: "About"
 ---
 
+
+# Overview
+
 Enteric infections remain the second leading cause of diarrheal morbidity and mortality globally in children, despite significant improvements in access to latrines and safe water sources in high disease burden countries. Our prior research has demonstrated that the “enteric pathome” - i.e. the communities of viral, bacterial, and protozoan pathogens transmitted by human and animal feces in the environment - ingested by children living in low-income urban neighborhoods of Kenya is taxonomically complex and varies by exposure pathway. Our preliminary data indicates that the risk of multi-pathogen infection is elevated among those 6- month old Kenyan infants fed cow’s milk and living in urban households with dirt floors, shared latrines, and cohabitating domestic animals. This suggests multiple aspects of societal development beyond latrines and water sources are required to reduce complexity in pathogen transmission in high burden countries. We hypothesize that joint modeling of enteric pathome agents across households and neighborhoods that represent contrasts in urban societal development will show that development leads to pathome evolution from complex to simple community structures, and thus lower detection frequencies for individual pathogen taxa.
 
 
@@ -12,4 +15,15 @@ Understanding the evolution in pathome complexity induced by societal developmen
   1. develop and validate agent-based models (ABMs) for predicting which social and environmental urban developmental interventions (e.g. animal penning, building latrines or drains, concrete floors) best prevent multi-pathogen transmission to infants in high disease burden countries using established Kenyan study sites as a model. 
   
 Our interdisciplinary team includes a biostatistician, infectious disease epidemiologists, microbiologist, computational scientist, behavioral researcher, and urban development geographer
+
+
+# Funding
+
+This work is supported by the National Institutes of Health Fogarty International Center (R01TW011795).
+
+
+# Study record
+
+The PATHOME project can be found on [clinicaltrials.gov](https://clinicaltrials.gov/ct2/show/NCT05322655?term=pathome&draw=2&rank=1).
+
 
