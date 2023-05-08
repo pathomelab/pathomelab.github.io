@@ -12,6 +12,7 @@ website:
       - people.qmd
       - dissemination.qmd
       - related_work.qmd
+      - contact_us.qmd
 
 format:
   html:

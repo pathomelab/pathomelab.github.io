@@ -2,18 +2,107 @@
 title: "People"
 ---
 
+::: {.panel-tabset}
+
+## By Institution
+
+
 # University of Iowa
 
+<!-- [![](img/Block-IOWA-Black-TM.png)](https://uiowa.edu/) -->
+<!-- [![](img/Block IOWA BLACK.png)](https://uiowa.edu/) -->
+<!-- [![](img/Block IOWA BLACK-TM.png)](https://uiowa.edu/) -->
+[![](img/Block IOWA GOLD-CMYK.png){width=40% fig-align="left"}](https://uiowa.edu/)
+<!-- [![](img/Block IOWA GOLD-CMYK-TM.png)](https://uiowa.edu/) -->
+<!-- [![](img/Block IOWA GOLD-ffcd00.png)](https://uiowa.edu/) -->
+<!-- [![](img/Block IOWA GOLD-ffcd00-TM.png)](https://uiowa.edu/) -->
+<!-- [![](img/Block IOWA GOLD-ffcd00-TM.png)](https://uiowa.edu/) -->
+<!-- [![](img/Block-IOWA-GOLD-ffcd00-TM.png)](https://uiowa.edu/) -->
+
+
 * Kelly Baker (Principal Investigator)
+* Sabin Gaire (Graduate Research Assistant)
 * Fanta Gutema (Post-doctoral Fellow)
+* Alexis Kapanka (Graduate Research Assistant)
 * Sriram Pemmaraju (Co-investigator)
 * Daniel Sewell (Principal Investigator)
+* Luis Torres (Graduate Research Assistant)
+* Gabriele Villarini (Co-investigator)
+
 
 # African Population and Health Research Center
 
+[![](img/aphrc_logo2-trimmed.jpg){width=40% fig-align="left"}](https://aphrc.org/)
+
+
 * John Agira (Laboratory Assistant)
+* Christine Amondi (Laboratory Assistant)
 * Phylis Busienei (Study Coordinator)
 * Blessing Mberu (Co-investigator)
 * Bonphace Okoth (Laboratory Assistant)
-* Sheillah Simiyu (Project Manager)
+* Sheillah Simiyu (prior Project Manager, now she's ...?)
+* Innocent Tumwebaz (Project Manager)
 * Abdhalah Ziraba (Co-investigator)
+
+
+# Maseno University
+
+[![](img/Maseno-logo_v5-trimmed.png){fig-align="left" width=40%}](https://www.maseno.ac.ke/)
+
+* Collins Ouma (???)
+
+
+## By domain
+
+# Microbiology and Epidemioloy
+
+![](img/micro_epi_icon-from_public_domain.jpg){fig-align="left" width=40%}
+
+* John Agira (Laboratory Assistant)
+* Christine Amondi (Laboratory Assistant)
+* Kelly Baker (Principal Investigator)
+* Fanta Gutema (Post-doctoral Fellow)
+* Alexis Kapanka (Graduate Research Assistant)
+* Bonphace Okoth (Laboratory Assistant)
+* Collins Ouma (???)
+* Abdhalah Ziraba (Co-investigator)
+
+
+# Statistics and Computer Science
+
+![](img/stat_cs_icon-from_stable_diffusion.jpg){fig-align="left" width=40%}
+
+* Sabin Gaire (Graduate Research Assistant)
+* Sriram Pemmaraju (Co-investigator)
+* Daniel Sewell (Principal Investigator)
+
+
+# Community and Behavioral Science
+
+![](img/comm_beh_icon-from_public_domain.jpg){fig-align="left" width=40%}
+
+* Phylis Busienei (Study Coordinator)
+* Sheillah Simiyu (prior Project Manager, now she's ...?)
+* Innocent Tumwebaz (Project Manager)
+
+
+
+# Demography and Urban Policy
+
+![](img/kibera.jpg){fig-align="left" width=40%}
+
+* Blessing Mberu (Co-investigator)
+
+
+# Climate Science
+
+![](img/climate_science_icon-from_public_domain.jpg){fig-align="left" width=40%}
+
+* Luis Torres (Graduate Research Assistant)
+* Gabriele Villarini (Co-investigator)
+
+
+
+:::
+
+
