@@ -62,7 +62,7 @@ title: "People"
 
 [![](img/Maseno-logo_v5-trimmed.png){fig-align="left" width=40%}](https://www.maseno.ac.ke/)
 
-![](img/mugshots/collins_ouma.jpg){fig-align="left" width=15%} Collins Ouma (???)
+![](img/mugshots/collins_ouma.jpg){fig-align="left" width=15%} Collins Ouma (Co-investigator)
 
 
 
