@@ -51,7 +51,7 @@ title: "People"
 
 ![](img/mugshots/bonphace_okoth.jpg){fig-align="left" width=15%} Bonphace Okoth (Laboratory Assistant)
 
-![](img/mugshots/sheillah_simiyu.jpg){fig-align="left" width=15%} Sheillah Simiyu (prior Project Manager, now she's ...?)
+![](img/mugshots/sheillah_simiyu.jpg){fig-align="left" width=15%} Sheillah Simiyu (Co-investigator)
 
 <!-- ![](img/mugshots/){fig-align="left" width=15%} --> Innocent Tumwebaz (Project Manager)
 
@@ -85,7 +85,7 @@ title: "People"
 
 ![](img/mugshots/bonphace_okoth.jpg){fig-align="left" width=15%} Bonphace Okoth (Laboratory Assistant)
 
-![](img/mugshots/collins_ouma.jpg){fig-align="left" width=15%} Collins Ouma (???)
+![](img/mugshots/collins_ouma.jpg){fig-align="left" width=15%} Collins Ouma (Co-investigator)
 
 ![](img/mugshots/abdhalah_ziraba.jpg){fig-align="left" width=15%} Abdhalah Ziraba (Co-investigator)
 
@@ -107,7 +107,7 @@ title: "People"
 
 ![](img/mugshots/phylis_busienei.jpg){fig-align="left" width=15%} Phylis Busienei (Study Coordinator)
 
-![](img/mugshots/sheillah_simiyu.jpg){fig-align="left" width=15%} Sheillah Simiyu (prior Project Manager, now she's ...?)
+![](img/mugshots/sheillah_simiyu.jpg){fig-align="left" width=15%} Sheillah Simiyu (Co-investigator)
 
 <!--![](img/mugshots/){fig-align="left" width=15%}--> Innocent Tumwebaz (Project Manager)
 
