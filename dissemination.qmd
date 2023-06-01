@@ -1,9 +1,14 @@
 ---
 title: "Dissemination"
 bibliography: SewellBibFiles.bib
+nocite: |
+  @baker2023protocol
+  @pathome_sop_2023
+# suppress-bibliography: true  
 ---
 
-...Under development...
+::: {#refs}
+:::
 
 <!-- 1. Adaptation of geotrackers -->
 <!-- 1. Protocol paper -->
