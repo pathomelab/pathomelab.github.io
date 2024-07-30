@@ -6,6 +6,10 @@ title: "People"
 
 ## By Institution
 
+# SUNY Buffalo
+
+![](https://myweb.uiowa.edu/dksewell/pathome/kelly_baker.jpg){fig-align="left" width=15%} Kelly Baker (Principal Investigator)
+
 
 # University of Iowa
 
@@ -20,13 +24,21 @@ title: "People"
 <!-- [![](https://myweb.uiowa.edu/dksewell/pathome/Block-IOWA-GOLD-ffcd00-TM.png)](https://uiowa.edu/) -->
 
 
-![](https://myweb.uiowa.edu/dksewell/pathome/kelly_baker.jpg){fig-align="left" width=15%} Kelly Baker (Principal Investigator)
 
 ![](https://myweb.uiowa.edu/dksewell/pathome/sabin_gaire.png){fig-align="left" width=15%} Sabin Gaire (Graduate Research Assistant)
 
 ![](https://myweb.uiowa.edu/dksewell/pathome/fanta_gutema.jpg){fig-align="left" width=15%} Fanta Gutema (Post-doctoral Fellow)
 
+
+![](https://myweb.uiowa.edu/dksewell/pathome/daniel_kakou.jpg){fig-align="left" width=15%} Daniel Kakou (Graduate Research Assistant)
+
+
 <!-- ![](https://myweb.uiowa.edu/dksewell/pathome/){fig-align="left" width=15%} --> Alexis Kapanka (Laboratory Manager)
+
+
+
+<!-- ![](https://myweb.uiowa.edu/dksewell/pathome/){fig-align="left" width=15%} --> John Kessler (Graduate Research Assistant)
+
 
 ![](https://myweb.uiowa.edu/dksewell/pathome/sriram_pemmaraju.jpg){fig-align="left" width=15%} Sriram Pemmaraju (Co-investigator)
 
@@ -110,6 +122,14 @@ title: "People"
 ![](https://myweb.uiowa.edu/dksewell/pathome/stat_cs_icon-from_stable_diffusion.jpg){fig-align="left" width=40%}
 
 ![](https://myweb.uiowa.edu/dksewell/pathome/sabin_gaire.png){fig-align="left" width=15%} Sabin Gaire (Graduate Research Assistant)
+
+![](https://myweb.uiowa.edu/dksewell/pathome/daniel_kakou.jpg){fig-align="left" width=15%} Daniel Kakou (Graduate Research Assistant)
+
+
+
+<!-- ![](https://myweb.uiowa.edu/dksewell/pathome/){fig-align="left" width=15%} --> John Kessler (Graduate Research Assistant)
+
+
 
 ![](https://myweb.uiowa.edu/dksewell/pathome/sriram_pemmaraju.jpg){fig-align="left" width=15%} Sriram Pemmaraju (Co-investigator)
 

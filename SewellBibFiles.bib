@@ -679,14 +679,14 @@ url="https://doi.org/10.1186/s12889-018-5310-3"
   publisher = {Taylor \& Francis},
 }
 
-@Article{Nowicki2001,
+@Article{nowicki2001estimation,
   author    = {Nowicki, Krzysztof and Snijders, Tom A. B.},
-  title     = {Estimation and prediction for stochastic blockstructures},
   journal   = {Journal of the American Statistical Association},
+  title     = {Estimation and prediction for stochastic blockstructures},
   year      = {2001},
-  volume    = {96},
   number    = {455},
   pages     = {1077--1087},
+  volume    = {96},
   publisher = {Taylor \& Francis},
 }
 
@@ -2094,17 +2094,6 @@ url="https://doi.org/10.1186/s12889-018-5310-3"
   year    = {1987},
   volume  = {82},
   pages   = {8--19},
-}
-
-@Article{Salter-Townshend2013a,
-  author    = {Salter-Townshend, Michael and Murphy, Thomas Brendan},
-  title     = {Variational Bayesian inference for the latent position cluster model for network data},
-  journal   = {Computational Statistics \& Data Analysis},
-  year      = {2013},
-  volume    = {57},
-  number    = {1},
-  pages     = {661--671},
-  publisher = {North-Holland},
 }
 
 @Article{Cox1981,
@@ -6730,13 +6719,6 @@ url="https://doi.org/10.1186/s12889-018-5310-3"
   year    = {2018},
 }
 
-@Article{oconner2015maximum,
-  author  = {O'Connor, Luke and M{\'e}dard, Muriel and Feizi, Soheil},
-  title   = {Maximum Likelihood Latent Space Embedding of Logistic Random Dot Product Graphs},
-  journal = {arXiv preprint arXiv:1510.00850},
-  year    = {2015},
-}
-
 @InProceedings{celeux1998bayesian,
   author    = {Celeux, Gilles},
   title     = {Bayesian Inference for Mixture: The Label Switching Problem},
@@ -7296,6 +7278,7 @@ year = {2011}
   title   = {Model-based edge clustering},
   year    = {2020},
   number  = {2},
+  pages   = {390-405},
   volume  = {30},
   doi     = {10.1080/10618600.2020.1811104},
 }
@@ -11169,19 +11152,849 @@ Scientists should be aware of the impact of misclassification on incidence estim
   url       = {https://doi.org/10.21105/joss.01541},
 }
 
-@Article{baker2023protocol,
-  author  = {Baker, Kelly K and Simiyu, Sheillah and Busienei, Phylis and Gutema, Fanta D and Okoth, Bonphace and Agira, John and Amondi, Christine S and Ziraba, Abdhalah and Kapanka, Alexis G and Osinuga, Abisola and Ouma, Collins and Sewell, Daniel K and Gaire, Sabin and Tumwebaze, Innocent K and Mberu, Blessing},
-  title   = {Protocol for the PATHOME study: A cohort study on urban societal development and the ecology of enteric disease transmission among infants, domestic animals, and the environment},
-  journal = {Preprint},
-  year    = {2023},
-  doi     = {10.1101/2023.05.26.23290617},
+@Article{floto2022exponentially,
+  author  = {Griffin Floto and Kremer, Stefan and Nica, Mihai},
+  journal = {arXiv.org},
+  title   = {The Exponentially tilted Gaussian prior for variational autoencoders},
+  year    = {2022},
+  url     = {https://arxiv.org/pdf/2111.15646.pdf},
 }
 
-@Article{pathome_sop_2023,
-  author = {Baker, Kelly K and Simiyu, Sheillah and Busienei, Phylis and Gutema, Fanta D and Okoth, Bonphace and Agira, John and Amondi, Christine S and Ziraba, Abdhalah and Kapanka, Alexis G and Osinuga, Abisola and Ouma, Collins and Sewell, Daniel K and Gaire, Sabin and Tumwebaze, Innocent K and Mberu, Blessing},
-  title  = {PATHOME study community and laboratory data collection protocols and tools},
+@Article{wiemann2021adaptive,
+  author   = {Wiemann, Paul and Kneib, Thomas},
+  title    = {Adaptive shrinkage of smooth functional effects towards a predefined functional subspace},
+  year     = {2021},
+  abstract = {In this paper, we propose a new horseshoe-type prior hierarchy for adaptively
+shrinking spline-based functional effects towards a predefined vector space of
+parametric functions. Instead of shrinking each spline coefficient towards
+zero, we use an adapted horseshoe prior to control the deviation from the
+predefined vector space. For this purpose, the modified horseshoe prior is set
+up with one scale parameter per spline and not one per coefficient. The
+presented prior allows for a large number of basis functions to capture all
+kinds of functional effects while the estimated functional effect is prevented
+from a highly oscillating overfit. We achieve this by integrating a smoothing
+penalty similar to the random walk prior commonly applied in Bayesian P-spline
+priors. In a simulation study, we demonstrate the properties of the new prior
+specification and compare it to other approaches from the literature.
+Furthermore, we showcase the applicability of the proposed method by estimating
+the energy consumption in Germany over the course of a day. For inference, we
+rely on Markov chain Monte Carlo simulations combining Gibbs sampling for the
+spline coefficients with slice sampling for all scale parameters in the model.},
+  url      = {https://arxiv.org/pdf/2101.05630.pdf},
+}
+
+@Article{sewell2023supplementLSS,
+  author = {Sewell, Daniel K.},
+  title  = {Supplement to ``Posterior shrinkage towards linear subspaces''},
   year   = {2023},
-  url    = {https://myweb.uiowa.edu/dksewell/pathome/PATHOME_Protocol_Standard_Operating_Procedures.pdf},
+  doi    = {10.1214/[provided by typesetter]},
+}
+
+@Book{rosner2021bayesian,
+  author    = {Rosner, Gary L and Laud, Purushottam W and Johnson, Wesley O},
+  publisher = {CRC Press},
+  title     = {Bayesian Thinking in Biostatistics},
+  year      = {2021},
+  address   = {Boca Raton, FL, USA},
+}
+
+@Article{chen2023editorial,
+  author    = {Yuguo Chen and Daniel Sewell and Panpan Zhang and Xuening Zhu},
+  journal   = {Journal of Data Science},
+  title     = {Editorial: Advances in Network Data Science},
+  year      = {2023},
+  issn      = {1680-743X},
+  number    = {3},
+  pages     = {443--445},
+  volume    = {21},
+  doi       = {10.6339/23-JDS213EDI},
+  publisher = {School of Statistics, Renmin University of China},
+}
+
+@Article{park2018bayesian,
+  author    = {Jaewoo Park and Murali Haran},
+  journal   = {Journal of the American Statistical Association},
+  title     = {Bayesian Inference in the Presence of Intractable Normalizing Functions},
+  year      = {2018},
+  number    = {523},
+  pages     = {1372-1390},
+  volume    = {113},
+  doi       = {10.1080/01621459.2018.1448824},
+  eprint    = {https://doi.org/10.1080/01621459.2018.1448824},
+  publisher = {Taylor & Francis},
+  url       = {https://doi.org/10.1080/01621459.2018.1448824},
+}
+
+@Article{Miller2023,
+  author  = {Miller, Aaron C and Arakkal, Alan T and Sewell, Daniel K and Segre, Alberto M and Tholany, Joseph and Polgreen, Philip M and CDC MInD-Healthcare Group},
+  journal = {Open Forum Infectious Diseases},
+  title   = {Comparison of different antibiotics and the risk for community-associated Clostridioides difficile Infection: A case–control study},
+  year    = {2023},
+  issn    = {2328-8957},
+  month   = {08},
+  number  = {8},
+  pages   = {ofad413},
+  volume  = {10},
+  doi     = {10.1093/ofid/ofad413},
+  eprint  = {https://academic.oup.com/ofid/article-pdf/10/8/ofad413/51234077/ofad413.pdf},
+  url     = {https://doi.org/10.1093/ofid/ofad413},
+}
+
+@Article{cai2017note,
+  author   = {Haiyan Cai},
+  journal  = {Statistics \& Probability Letters},
+  title    = {A note on jointly modeling edges and node attributes of a network},
+  year     = {2017},
+  issn     = {0167-7152},
+  pages    = {54-60},
+  volume   = {121},
+  abstract = {We are interested in modeling networks in which the connectivity among the nodes and node attributes are random variables and interact with each other. We propose a probabilistic model that allows one to formulate jointly a probability distribution for these variables. This model can be described as a combination of a latent space model and a Gaussian graphical model: given the node variables, the edges will follow independent logistic distributions, with the node variables as covariates; given edges, the node variables will be distributed jointly as multivariate Gaussian, with their conditional covariance matrix depending on the graph induced by the edges. We will present some basic properties of this model, including a connection between this model and a dynamical network process involving both edges and node variables, the marginal distribution of the model for edges as a random graph model, its one-edge conditional distributions, the FKG inequality, and the existence of a limiting distribution for the edges in an infinite graph.},
+  doi      = {https://doi.org/10.1016/j.spl.2016.10.014},
+  keywords = {Network model, Dynamical network, Random graph, Limiting graph},
+  url      = {https://www.sciencedirect.com/science/article/pii/S0167715215303771},
+}
+
+@Article{Mullan2023,
+  author    = {Mullan, Sean M. AND Evans, Nicholas J. AND Sewell, Daniel K. AND Francis, Shelby L. AND Polgreen, Linnea A. AND Segre, Alberto M. AND Polgreen, Philip M.},
+  journal   = {PLOS ONE},
+  title     = {Predicting use of a gait-stabilizing device using a Wii Balance Board},
+  year      = {2023},
+  month     = {10},
+  number    = {10},
+  pages     = {1-12},
+  volume    = {18},
+  abstract  = {Gait-stabilizing devices (GSDs) are effective at preventing falls, but people are often reluctant to use them until after experiencing a fall. Inexpensive, convenient, and effective methods for predicting which patients need GSDs could help improve adoption. The purpose of this study was to determine if a Wii Balance Board (WBB) can be used to determine whether or not patients use a GSD. We prospectively recruited participants ages 70–100, some who used GSDs and some who did not. Participants first answered questions from the Modified Vulnerable Elders Survey, and then completed a grip-strength test using a handgrip dynamometer. Finally, they were asked to complete a series of four 30-second balance tests on a WBB in random order: (1) eyes open, feet apart; (2) eyes open, feet together; (3) eyes closed, feet apart; and (4) eyes closed, feet together. The four-test series was repeated a second time in the same random order. The resulting data, represented as 25 features extracted from the questionnaires and the grip test, and data from the eight balance tests, were used to predict a subject’s GSD use using generalized functional linear models based on the Bernoulli distribution. 268 participants were consented; 62 were missing data elements and were removed from analysis; 109 were not GSD users and 97 were GSD users. The use of velocity and acceleration information from the WBB improved upon predictions based solely on grip strength, demographic, and survey variables. The WBB is a convenient, inexpensive, and easy-to-use device that can be used to recommend whether or not patients should be using a GSD.},
+  doi       = {10.1371/journal.pone.0292548},
+  publisher = {Public Library of Science},
+  url       = {https://doi.org/10.1371/journal.pone.0292548},
+}
+
+@Manual{scheidegger2021adaptMCMC,
+  title  = {adaptMCMC: Implementation of a Generic Adaptive Monte Carlo Markov Chain Sampler},
+  author = {Andreas Scheidegger},
+  note   = {R package version 1.4},
+  year   = {2021},
+  url    = {https://CRAN.R-project.org/package=adaptMCMC},
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@Article{kronmal1979alias,
+  author    = {Richard A. Kronmal and Arthur V. Peterson},
+  journal   = {The American Statistician},
+  title     = {On the alias method for generating random variables from a discrete distribution},
+  year      = {1979},
+  number    = {4},
+  pages     = {214-218},
+  volume    = {33},
+  doi       = {10.1080/00031305.1979.10482697},
+  eprint    = {https://www.tandfonline.com/doi/pdf/10.1080/00031305.1979.10482697},
+  publisher = {Taylor & Francis},
+  url       = {https://www.tandfonline.com/doi/abs/10.1080/00031305.1979.10482697},
+}
+
+
+
+
+
+
+
+@Article{behdenna2019transmission,
+  author   = {Behdenna, Abdelkader and Lembo, Tiziana and Calatayud, Olga and Cleaveland, Sarah and Halliday, Jo E. B. and Packer, Craig and Lankester, Felix and Hampson, Katie and Craft, Meggan E. and Czupryna, Anna and Dobson, Andrew P. and Dubovi, Edward J. and Ernest, Eblate and Fyumagwa, Robert and Hopcraft, J. Grant C. and Mentzel, Christine and Mzimbiri, Imam and Sutton, David and Willett, Brian and Haydon, Daniel T. and Viana, Mafalda},
+  journal  = {Proceedings of the Royal Society B: Biological Sciences},
+  title    = {Transmission ecology of canine parvovirus in a multi-host, multi-pathogen system},
+  year     = {2019},
+  number   = {1899},
+  pages    = {20182772},
+  volume   = {286},
+  abstract = {Understanding multi-host pathogen maintenance and transmission dynamics is critical for disease control. However, transmission dynamics remain enigmatic largely because they are difficult to observe directly, particularly in wildlife. Here, we investigate the transmission dynamics of canine parvovirus (CPV) using state–space modelling of 20 years of CPV serology data from domestic dogs and African lions in the Serengeti ecosystem. We show that, although vaccination reduces the probability of infection in dogs, and despite indirect enhancement of population seropositivity as a result of vaccine shedding, the vaccination coverage achieved has been insufficient to prevent CPV from becoming widespread. CPV is maintained by the dog population and has become endemic with approximately 3.5-year cycles and prevalence reaching approximately 80\%. While the estimated prevalence in lions is lower, peaks of infection consistently follow those in dogs. Dogs exposed to CPV are also more likely to become infected with a second multi-host pathogen, canine distemper virus. However, vaccination can weaken this coupling, raising questions about the value of monovalent versus polyvalent vaccines against these two pathogens. Our findings highlight the need to consider both pathogen- and host-level community interactions when seeking to understand the dynamics of multi-host pathogens and their implications for conservation, disease surveillance and control programmes.},
+  doi      = {10.1098/rspb.2018.2772},
+  eprint   = {https://royalsocietypublishing.org/doi/pdf/10.1098/rspb.2018.2772},
+  url      = {https://royalsocietypublishing.org/doi/abs/10.1098/rspb.2018.2772},
+}
+
+@Article{shrestha2011statistical,
+  author    = {Shrestha, Sourya AND King, Aaron A. AND Rohani, Pejman},
+  journal   = {PLOS Computational Biology},
+  title     = {Statistical inference for multi-pathogen systems},
+  year      = {2011},
+  month     = {08},
+  number    = {8},
+  pages     = {1-14},
+  volume    = {7},
+  abstract  = {There is growing interest in understanding the nature and consequences of interactions among infectious agents. Pathogen interactions can be operational at different scales, either within a co-infected host or in host populations where they co-circulate, and can be either cooperative or competitive. The detection of interactions among pathogens has typically involved the study of synchrony in the oscillations of the protagonists, but as we show here, phase association provides an unreliable dynamical fingerprint for this task. We assess the capacity of a likelihood-based inference framework to accurately detect and quantify the presence and nature of pathogen interactions on the basis of realistic amounts and kinds of simulated data. We show that when epidemiological and demographic processes are well understood, noisy time series data can contain sufficient information to allow correct inference of interactions in multi-pathogen systems. The inference power is dependent on the strength and time-course of the underlying mechanism: stronger and longer-lasting interactions are more easily and more precisely quantified. We examine the limitations of our approach to stochastic temporal variation, under-reporting, and over-aggregation of data. We propose that likelihood shows promise as a basis for detection and quantification of the effects of pathogen interactions and the determination of their (competitive or cooperative) nature on the basis of population-level time-series data.},
+  doi       = {10.1371/journal.pcbi.1002135},
+  publisher = {Public Library of Science},
+  url       = {https://doi.org/10.1371/journal.pcbi.1002135},
+}
+
+@Article{vasco2007tracking,
+  author   = {Daniel A. Vasco and Helen J. Wearing and Pejman Rohani},
+  journal  = {Journal of Theoretical Biology},
+  title    = {Tracking the dynamics of pathogen interactions: Modeling ecological and immune-mediated processes in a two-pathogen single-host system},
+  year     = {2007},
+  issn     = {0022-5193},
+  number   = {1},
+  pages    = {9-25},
+  volume   = {245},
+  abstract = {Traditionally, epidemiological studies have focused on understanding the dynamics of a single pathogen, assuming no interactions with other pathogens. Recently, a large body of work has begun to explore the effects of immune-mediated interactions, arising from cross-immunity and antibody-dependent enhancement, between related pathogen strains. In addition, ecological processes such as a temporary period of convalescence and pathogen-induced mortality have led to the concept of ecological interference between unrelated diseases. There remains, however, the need for a systematic study of both immunological and ecological processes within a single framework. In this paper, we develop a general two-pathogen single-host model of pathogen interactions that simultaneously incorporates these mechanisms. We are then able to mechanistically explore how immunoecological processes mediate interactions between diseases for a pool of susceptible individuals. We show that the precise nature of the interaction can induce either competitive or cooperative associations between pathogens. Understanding the dynamic implications of multi-pathogen associations has potentially important public health consequences. Such a framework may be especially helpful in disentangling the effects of partially cross-immunizing infections that affect populations with a pre-disposition towards immunosuppression such as children and the elderly.},
+  doi      = {https://doi.org/10.1016/j.jtbi.2006.08.015},
+  keywords = {Infectious disease modeling, Ecological interference, Immune-mediated processes},
+  url      = {https://www.sciencedirect.com/science/article/pii/S0022519306003638},
+}
+
+@Article{buhnerkempe2015eight,
+  author   = {Michael G. Buhnerkempe and Mick G. Roberts and Andrew P. Dobson and Hans Heesterbeek and Peter J. Hudson and James O. Lloyd-Smith},
+  journal  = {Epidemics},
+  title    = {Eight challenges in modelling disease ecology in multi-host, multi-agent systems},
+  year     = {2015},
+  issn     = {1755-4365},
+  note     = {Challenges in Modelling Infectious DIsease Dynamics},
+  pages    = {26-30},
+  volume   = {10},
+  abstract = {Many disease systems exhibit complexities not captured by current theoretical and empirical work. In particular, systems with multiple host species and multiple infectious agents (i.e., multi-host, multi-agent systems) require novel methods to extend the wealth of knowledge acquired studying primarily single-host, single-agent systems. We outline eight challenges in multi-host, multi-agent systems that could substantively increase our knowledge of the drivers and broader ecosystem effects of infectious disease dynamics.},
+  doi      = {https://doi.org/10.1016/j.epidem.2014.10.001},
+  keywords = {Multiple hosts, Multiple pathogens, Community ecology, Maintenance, Food webs},
+  url      = {https://www.sciencedirect.com/science/article/pii/S1755436514000693},
+}
+
+@Article{holcomb2020human,
+  author   = {David A. Holcomb and Jackie Knee and Trent Sumner and Zaida Adriano and Ellen {de Bruijn} and Rassul Nalá and Oliver Cumming and Joe Brown and Jill R. Stewart},
+  journal  = {International Journal of Hygiene and Environmental Health},
+  title    = {Human fecal contamination of water, soil, and surfaces in households sharing poor-quality sanitation facilities in Maputo, Mozambique},
+  year     = {2020},
+  issn     = {1438-4639},
+  pages    = {113496},
+  volume   = {226},
+  abstract = {Identifying the origin of fecal contamination can support more effective interventions to interrupt enteric pathogen transmission. Microbial source tracking (MST) assays may help to identify environmental routes of pathogen transmission although these assays have performed poorly in highly contaminated domestic settings, highlighting the importance of both diagnostic validation and understanding the context-specific ecological, physical, and sociodemographic factors driving the spread of fecal contamination. We assessed fecal contamination of compounds (clusters of 2–10 households that share sanitation facilities) in low-income neighborhoods of urban Maputo, Mozambique, using a set of MST assays that were validated with animal stool and latrine sludge from study compounds. We sampled five environmental compartments involved in fecal microbe transmission and exposure: compound water source, household stored water and food preparation surfaces, and soil from the entrance to the compound latrine and the entrances to each household. Each sample was analyzed by culture for the general fecal indicator Escherichia coli (cEC) and by real-time PCR for the E. coli molecular marker EC23S857, human-associated markers HF183/BacR287 and Mnif, and GFD, an avian-associated marker. We collected 366 samples from 94 households in 58 compounds. At least one microbial target (indicator organism or marker gene) was detected in 96% of samples (353/366), with both E. coli targets present in the majority of samples (78%). Human targets were frequently detected in soils (59%) and occasionally in stored water (17%) but seldom in source water or on food surfaces. The avian target GFD was rarely detected in any sample type but was most common in soils (4%). To identify risk factors of fecal contamination, we estimated associations with sociodemographic, meteorological, and physical sample characteristics for each microbial target and sample type combination using Bayesian censored regression for target concentration responses and Bayesian logistic regression for target detection status. Associations with risk factors were generally weak and often differed in direction between different targets and sample types, though relationships were somewhat more consistent for physical sample characteristics. Wet soils were associated with elevated concentrations of cEC and EC23S857 and odds of detecting HF183. Water storage container characteristics that expose the contents to potential contact with hands and other objects were weakly associated with human target detection. Our results describe a setting impacted by pervasive domestic fecal contamination, including from human sources, that was largely disconnected from the observed variation in socioeconomic and sanitary conditions. This pattern suggests that in such highly contaminated settings, transformational changes to the community environment may be required before meaningful impacts on fecal contamination can be realized.},
+  doi      = {https://doi.org/10.1016/j.ijheh.2020.113496},
+  keywords = {Microbial source tracking, Real-time quantitative PCR, Bayesian statistics, Detection limit, Water, sanitation, and hygiene (WaSH), Maputo sanitation (MapSan) trial},
+  url      = {https://www.sciencedirect.com/science/article/pii/S1438463919309873},
+}
+
+@Article{bauza2020enteric,
+  author   = {Valerie Bauza and Vincent Madadi and Robinson Ocharo and Thanh H. Nguyen and Jeremy S. Guest},
+  journal  = {Science of The Total Environment},
+  title    = {Enteric pathogens from water, hands, surface, soil, drainage ditch, and stream exposure points in a low-income neighborhood of Nairobi, Kenya},
+  year     = {2020},
+  issn     = {0048-9697},
+  pages    = {135344},
+  volume   = {709},
+  abstract = {Child exposure to fecal-oral pathogens occurs through several transmission pathways. However, the relative importance of different exposure points for pathogen transmission both inside and outside households is not well understood. We conducted a cross-sectional study in the urban slum of Kibera in Nairobi, Kenya, collecting 237 environmental samples from 40 households from source water, stored drinking water, caregiver hands, child hands, household surfaces, soil, standing water, open drainage ditches, and streams. We quantified the fecal indicator Escherichia coli and the enteric pathogens of adenovirus, Campylobacter jejuni, Shigella spp./enteroinvasive E. coli (EIEC), and Vibrio cholerae. At least one enteric pathogens was detected in 13% of household stored water, 47% of hand, 46% of table surface, 26% of plate surface, 75% of floor surface, 96% of soil, 56% of standing water, 77% of drainage ditch, and 100% of stream samples despite all households having access to a toilet or latrine. Our results provide evidence that children may be exposed to enteric pathogens from several exposure points, that domestic hygiene practices related to water treatment and child handwashing were associated with reduced pathogen detection in this setting, but household table and floor cleaning practices were not, that ownership or presence of chickens in the compound was associated with increased detection of C. jejuni inside households and on soil, that there were interactions among different transmission pathways for enteric pathogens, and that there were differential correlations between E. coli and enteric pathogens for different pathogens and environmental sample types. Additionally, V. cholerae was detected at several exposure points during a cholera outbreak. Overall, these results suggest that interventions that can disrupt many transmission pathways may be needed to reduce enteric pathogen exposure in this urban slum setting.},
+  doi      = {https://doi.org/10.1016/j.scitotenv.2019.135344},
+  keywords = {Enteric pathogens, Fecal contamination, Diarrheal disease, Sanitation, Hygiene},
+  url      = {https://www.sciencedirect.com/science/article/pii/S0048969719353367},
+}
+
+@Article{mattioli2014enteric,
+  author    = {Mattioli, Mia Catharine AND Boehm, Alexandria B. AND Davis, Jennifer AND Harris, Angela R. AND Mrisho, Mwifadhi AND Pickering, Amy J.},
+  journal   = {PLOS ONE},
+  title     = {Enteric pathogens in stored drinking water and on caregiver’s hands in Tanzanian households with and without reported cases of child diarrhea},
+  year      = {2014},
+  month     = {01},
+  number    = {1},
+  pages     = {1-11},
+  volume    = {9},
+  abstract  = {Background Diarrhea is one of the leading causes of mortality in young children. Diarrheal pathogens are transmitted via the fecal-oral route, and for children the majority of this transmission is thought to occur within the home. However, very few studies have documented enteric pathogens within households of low-income countries.  Methods and Findings The presence of molecular markers for three enteric viruses (enterovirus, adenovirus, and rotavirus), seven Escherichia coli virulence genes (ECVG), and human-specific Bacteroidales was assessed in hand rinses and household stored drinking water in Bagamoyo, Tanzania. Using a matched case-control study design, we examined the relationship between contamination of hands and water with these markers and child diarrhea. We found that the presence of ECVG in household stored water was associated with a significant decrease in the odds of a child within the home having diarrhea (OR = 0.51; 95% confidence interval 0.27–0.93). We also evaluated water management and hygiene behaviors. Recent hand contact with water or food was positively associated with detection of enteric pathogen markers on hands, as was relatively lower volumes of water reportedly used for daily hand washing. Enteropathogen markers in stored drinking water were more likely found among households in which the markers were also detected on hands, as well as in households with unimproved water supply and sanitation infrastructure.  Conclusions The prevalence of enteric pathogen genes and the human-specific Bacteroidales fecal marker in stored water and on hands suggests extensive environmental contamination within homes both with and without reported child diarrhea. Better stored water quality among households with diarrhea indicates caregivers with sick children may be more likely to ensure safe drinking water in the home. Interventions to increase the quantity of water available for hand washing, and to improve food hygiene, may reduce exposure to enteric pathogens in the domestic environment.},
+  doi       = {10.1371/journal.pone.0084939},
+  publisher = {Public Library of Science},
+  url       = {https://doi.org/10.1371/journal.pone.0084939},
+}
+
+@Article{fuhrmeister2019predictors,
+  author    = {Fuhrmeister, Erica and Ercumen, Ayse and Pickering, Amy J. and Jeanis, Kaitlyn M. and Ahmed, Mahaa and Brown, Sara and Arnold, Benjamin F. and Hubbard, Alan E. and Alam, Mahfuja and Sen, Debashis and Islam, Sharmin and Kabir, Mir Himayet and Kwong, Laura H. and Islam, Mahfuza and Unicomb, Leanne and Rahman, Mahbubur and Boehm, Alexandria B. and Luby, Stephen P. and Colford, John M. Jr. and Nelson, Kara L.},
+  journal   = {Environ. Sci. Technol.},
+  title     = {Predictors of Enteric Pathogens in the Domestic Environment from Human and Animal Sources in Rural Bangladesh},
+  year      = {2019},
+  issn      = {0013-936X},
+  month     = sep,
+  number    = {17},
+  pages     = {10023--10033},
+  volume    = {53},
+  comment   = {doi: 10.1021/acs.est.8b07192},
+  doi       = {10.1021/acs.est.8b07192},
+  publisher = {American Chemical Society},
+  url       = {https://doi.org/10.1021/acs.est.8b07192},
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@Article{tang2019spatiotemporal,
+  author    = {Xueying Tang, Yang Yang, Hong-Jie Yu, Qiao-Hong Liao and Nikolay Bliznyuk},
+  journal   = {Journal of the American Statistical Association},
+  title     = {A Spatio-Temporal Modeling Framework for Surveillance Data of Multiple Infectious Pathogens With Small Laboratory Validation Sets},
+  year      = {2019},
+  note      = {PMID: 31937981},
+  number    = {528},
+  pages     = {1561-1573},
+  volume    = {114},
+  doi       = {10.1080/01621459.2019.1585250},
+  eprint    = {https://doi.org/10.1080/01621459.2019.1585250},
+  publisher = {Taylor & Francis},
+  url       = {https://doi.org/10.1080/01621459.2019.1585250},
+}
+
+@Article{clark2009inference,
+  author    = {James S. Clark and Michelle H. Hersh},
+  journal   = {Bayesian Analysis},
+  title     = {Inference in incidence, infection, and impact: co-infection of multiple hosts by multiple pathogens},
+  year      = {2009},
+  number    = {2},
+  pages     = {337 -- 365},
+  volume    = {4},
+  doi       = {10.1214/09-BA413},
+  keywords  = {DNA sequence data, forest dynamic, Janzen Connell hypothesis, reversible jump MCMC, species diversity, Variable selection},
+  publisher = {International Society for Bayesian Analysis},
+  url       = {https://doi.org/10.1214/09-BA413},
+}
+
+@Article{valle2014largescale,
+  author   = {Valle, Denis and Tucker Lima, Joanna M.},
+  journal  = {Malaria Journal},
+  title    = {Large-scale drivers of malaria and priority areas for prevention and control in the Brazilian Amazon region using a novel multi-pathogen geospatial model},
+  year     = {2014},
+  issn     = {1475-2875},
+  number   = {1},
+  pages    = {443},
+  volume   = {13},
+  abstract = {Most of the malaria burden in the Americas is concentrated in the Brazilian Amazon but a detailed spatial characterization of malaria risk has yet to be undertaken.},
+  doi      = {10.1186/1475-2875-13-443},
+  refid    = {Valle2014},
+  url      = {https://doi.org/10.1186/1475-2875-13-443},
+}
+
+@Article{liu2019analyzing,
+  author  = {Liu, Hui},
+  journal = {Computational and Mathematical Methods in Medicine},
+  title   = {Analyzing the relationship between cohort and case-control study results based on model for multiple pathogenic factors},
+  year    = {2019},
+}
+
+@Article{vadillo2021deterministic,
+  author   = {Vadillo, Fernando},
+  journal  = {Epidemiologia},
+  title    = {On deterministic and stochastic multiple pathogen epidemic models},
+  year     = {2021},
+  issn     = {2673-3986},
+  number   = {3},
+  pages    = {325--337},
+  volume   = {2},
+  doi      = {10.3390/epidemiologia2030025},
+  pubmedid = {36417229},
+  url      = {https://www.mdpi.com/2673-3986/2/3/25},
+}
+
+@Article{mair2019estimation,
+  author    = {Mair, Colette AND Nickbakhsh, Sema AND Reeve, Richard AND McMenamin, Jim AND Reynolds, Arlene AND Gunson, Rory N. AND Murcia, Pablo R. AND Matthews, Louise},
+  journal   = {PLOS Computational Biology},
+  title     = {Estimation of temporal covariances in pathogen dynamics using Bayesian multivariate autoregressive models},
+  year      = {2019},
+  month     = {12},
+  number    = {12},
+  pages     = {1-21},
+  volume    = {15},
+  doi       = {10.1371/journal.pcbi.1007492},
+  publisher = {Public Library of Science},
+  url       = {https://doi.org/10.1371/journal.pcbi.1007492},
+}
+
+@Article{bakuli2017effects,
+  author  = {Bakuli, Abhishek and Klawonn, Frank and Karch, André and Mikolajczyk, Rafael},
+  journal = {Theoretical Biology and Medical Modelling},
+  title   = {Effects of pathogen dependency in a multi-pathogen infectious disease system including population level heterogeneity - a simulation study},
+  year    = {2017},
+  issn    = {1742-4682},
+  number  = {1},
+  pages   = {26},
+  volume  = {14},
+  doi     = {10.1186/s12976-017-0072-7},
+  refid   = {Bakuli2017},
+  url     = {https://doi.org/10.1186/s12976-017-0072-7},
+}
+
+@Article{hoffmann2008statistical,
+  author   = {Hoffmann, Kurt and Pischon, Tobias and Schulz, Mandy and Schulze, Matthias B. and Ray, Jennifer and Boeing, Heiner},
+  journal  = {American Journal of Epidemiology},
+  title    = {{A Statistical Test for the Equality of Differently Adjusted Incidence Rate Ratios}},
+  year     = {2008},
+  issn     = {0002-9262},
+  month    = {01},
+  number   = {5},
+  pages    = {517-522},
+  volume   = {167},
+  abstract = {{An incidence rate ratio (IRR) is a meaningful effect measure in epidemiology if it is adjusted for all important confounders. For evaluation of the impact of adjustment, adjusted IRRs should be compared with crude IRRs. The aim of this methodological study was to present a statistical approach for testing the equality of adjusted and crude IRRs and to derive a confidence interval for the ratio of the two IRRs. The method can be extended to compare two differently adjusted IRRs and, thus, to evaluate the effect of additional adjustment. The method runs immediately on existing software. To illustrate the application of this approach, the authors studied adjusted IRRs for two risk factors of type 2 diabetes using data from the European Prospective Investigation into Cancer and Nutrition-Potsdam Study from 2005. The statistical method described may be helpful as an additional tool for analyzing epidemiologic cohort data and for interpreting results obtained from Cox regression models with adjustment for different covariates.}},
+  doi      = {10.1093/aje/kwm357},
+  eprint   = {https://academic.oup.com/aje/article-pdf/167/5/517/560908/kwm357.pdf},
+  url      = {https://doi.org/10.1093/aje/kwm357},
+}
+
+
+
+
+
+
+@Article{cummings2009methods,
+  author  = {Peter Cummings},
+  journal = {The Stata Journal},
+  title   = {Methods for estimating adjusted risk ratios},
+  year    = {2009},
+  number  = {2},
+  pages   = {175-196},
+  volume  = {9},
+  doi     = {10.1177/1536867X0900900201},
+  eprint  = {https://doi.org/10.1177/1536867X0900900201},
+  url     = {https://doi.org/10.1177/1536867X0900900201},
+}
+
+@Book{haas2014quantitative,
+  author    = {Haas, Charles N. and Rose, Joan B. and Gerba, Charles P.},
+  publisher = {John Wiley \& Sons},
+  title     = {Quantitative microbial risk assessment},
+  year      = {2014},
+  address   = {Hoboken, New Jersey, USA},
+}
+
+@Article{schwarz2008placental,
+  author   = {Schwarz, Norbert G. and Adegnika, Ayola A. and Breitling, Lutz P. and Gabor, Julian and Agnandji, Selidji T. and Newman, Robert D. and Lell, Bertrand and Issifou, Saadou and Yazdanbakhsh, Maria and Luty, Adrian J. F. and Kremsner, Peter G. and Grobusch, Martin P.},
+  journal  = {Clinical Infectious Diseases},
+  title    = {Placental malaria increases malaria risk in the first 30 months of life},
+  year     = {2008},
+  issn     = {1058-4838},
+  month    = {10},
+  number   = {8},
+  pages    = {1017-1025},
+  volume   = {47},
+  abstract = {{Background. Plasmodium falciparum infection during pregnancy is associated with stillbirth, fetal growth restriction, and low birth weight. An additional consequence may be increased risk of malaria in early life, although the epidemiological evidence of this consequence is limited.Methods. A cohort of 527 children were observed actively every month for 30 months after delivery. Offspring of mothers with microscopically detectable placental P. falciparum infection at the time of delivery were defined as exposed. The outcome measure was malaria (parasitemia and fever). Analyses were performed using Cox proportional hazard models and were stratified by gravidity.Results. Overall, offspring of mothers with placental P. falciparum infection had a significantly higher risk of clinical malaria during the first 30 months of life (adjusted hazard ratio, 2.1; 95\\% confidence interval [CI], 1.2–3.7). The adjusted hazard ratio for offspring of multigravidae was 2.6 (95\\% CI, 1.3–5.3), and that for primigravidae was 1.5 (95\\% CI, 0.6–3.8). The offspring of placenta-infected primigravidae had no episodes of malaria during the first year of life.Conclusions. Our findings show that active placental P. falciparum infection detected at delivery is associated with an ∼2-fold greater risk of malaria during early life, compared with noninfection. The fact that persons born to infected multigravidae rather than primigravidae appear to be at greater risk emphasizes the importance of preventing malaria in mothers of all gravidities.}},
+  doi      = {10.1086/591968},
+  eprint   = {https://academic.oup.com/cid/article-pdf/47/8/1017/985351/47-8-1017.pdf},
+  url      = {https://doi.org/10.1086/591968},
+}
+
+@Article{cohen2022sarscov2,
+  author    = {Cohen, Cheryl and Kleynhans, Jackie and von Gottberg, Anne and McMorrow, Meredith L. and Wolter, Nicole and Bhiman, Jinal N. and Moyes, Jocelyn and du Plessis, Mignon and Carrim, Maimuna and Buys, Amelia and Martinson, Neil A. and Kahn, Kathleen and Tollman, Stephen and Lebina, Limakatso and Wafawanaka, Floidy and du Toit, Jacques D. and Gómez-Olivé, Francesc Xavier and Dawood, Fatimah S. and Mkhencele, Thulisa and Sun, Kaiyuan and Viboud, Cécile and Tempia, Stefano and Bhiman, Jinal N. and Buys, Amelia and Carrim, Maimuna and Cohen, Cheryl and de Gouveia, Linda and du Plessis, Mignon and du Toit, Jacques and Gómez-Olivé, Francesc X. and Kahn, Kathleen and Kgasago, Kgaugelo P. and Kleynhans, Jackie and Kotane, Retshidisitswe and Lebina, Limakatso and Martinson, Neil A. and McMorrow, Meredith L. and Moloantoa, Tumelo and Moyes, Jocelyn and Tempia, Stefano and Tollman, Stephen and von Gottberg, Anne and Wafawanaka, Floidy and Wolter, Nicole},
+  journal   = {The Lancet Infectious Diseases},
+  title     = {SARS-CoV-2 incidence, transmission, and reinfection in a rural and an urban setting: Results of the PHIRST-C cohort study, South Africa},
+  year      = {2022},
+  issn      = {1473-3099},
+  month     = jun,
+  number    = {6},
+  pages     = {821--834},
+  volume    = {22},
+  comment   = {doi: 10.1016/S1473-3099(22)00069-X},
+  doi       = {10.1016/S1473-3099(22)00069-X},
+  publisher = {Elsevier},
+  url       = {https://doi.org/10.1016/S1473-3099(22)00069-X},
+}
+
+@Article{verburgh2021similar,
+  author    = {Verburgh, Myrthe L. and Boyd, Anders and Wit, Ferdinand W. N. M. and Schim Loeff, Maarten F. and Valk, Marc and Bakker, Margreet and Kootstra, Neeltje A. and Hoek, Lia and Reiss, Peter},
+  journal   = {The Journal of infectious diseases},
+  title     = {Similar risk of SARS-CoV-2 infection and similar nucleocapsid antibody levels in people with well-controlled HIV and a comparable cohort of people without HIV},
+  year      = {2021},
+  issn      = {0022-1899},
+  abstract  = {Within the ongoing AGEhIV Cohort Study in Amsterdam, we prospectively compared the incidence of and risk factors for severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection between human immunodeficiency virus (HIV)-positive and HIV-negative participants. Moreover, we compared SARS-CoV-2 nucleocapsid antibody levels between participants with incident infection from both groups.Starting in September 2020, consenting HIV-positive and HIV-negative participants were assessed every 6 months for incident SARS-CoV-2 infection, using combined immunoglobulin (Ig) A/IgM/IgG SARS-CoV-2 nucleocapsid antibody assay. Cumulative incidence of SARS-CoV-2 infection and associated risk factors were assessed from 27 February 2020 through 30 April 2021, using complementary log-log regression. In those with incident SARS-CoV-2 infection, nucleocapsid (N) antibody levels were compared between groups using linear regression.The study included 241 HIV-positive (99.2% virally suppressed) and 326 HIV-negative AGEhIV participants. The cumulative SARS-CoV-2 incidence by April 2021 was 13.4% and 11.6% in HIV-positive and HIV-negative participants, respectively (PвЂ…=вЂ….61). Younger age and African origin were independently associated with incident infection. In those with incident infection, only self-reported fever, but not HIV status, was associated with higher N antibody levels.HIV-positive individuals with suppressed viremia and adequate CD4 cell counts had similar risk of SARS-CoV-2 acquisition and similar SARS-CoV-2В N antibody levels after infection compared with a comparable HIV-negative cohort.NCT01466582.},
+  keywords  = {virus diseases, viruses},
+  publisher = {Oxford University Press},
+  refid     = {TN_cdi_openaire_primary_pmid_7456c25915c58f4e81cf9da0a1e7a3b8},
+}
+
+@Article{oconnor2020maximum,
+  author       = {O’Connor, Luke J. and Medard, Muriel and Feizi, Soheil},
+  journal      = {Proceedings of the AAAI Conference on Artificial Intelligence},
+  title        = {Maximum Likelihood Embedding of Logistic Random Dot Product Graphs},
+  year         = {2020},
+  month        = {Apr.},
+  number       = {04},
+  pages        = {5289-5297},
+  volume       = {34},
+  abstractnote = {&lt;p&gt;A latent space model for a family of random graphs assigns real-valued vectors to nodes of the graph such that edge probabilities are determined by latent positions. Latent space models provide a natural statistical framework for graph visualizing and clustering. A latent space model of particular interest is the Random Dot Product Graph (RDPG), which can be fit using an efficient spectral method; however, this method is based on a heuristic that can fail, even in simple cases. Here, we consider a closely related latent space model, the Logistic RDPG, which uses a logistic link function to map from latent positions to edge likelihoods. Over this model, we show that asymptotically exact maximum likelihood inference of latent position vectors can be achieved using an efficient spectral method. Our method involves computing top eigenvectors of a normalized adjacency matrix and scaling eigenvectors using a regression step. The novel regression scaling step is an essential part of the proposed method. In simulations, we show that our proposed method is more accurate and more robust than common practices. We also show the effectiveness of our approach over standard real networks of the karate club and political blogs.&lt;/p&gt;},
+  doi          = {10.1609/aaai.v34i04.5975},
+  url          = {https://ojs.aaai.org/index.php/AAAI/article/view/5975},
+}
+
+@Article{lubold2023identifying,
+  author   = {Lubold, Shane and Chandrasekhar, Arun G and McCormick, Tyler H},
+  journal  = {Journal of the Royal Statistical Society Series B: Statistical Methodology},
+  title    = {{Identifying the latent space geometry of network models through analysis of curvature}},
+  year     = {2023},
+  issn     = {1369-7412},
+  month    = {03},
+  number   = {2},
+  pages    = {240-292},
+  volume   = {85},
+  abstract = {{A common approach to modelling networks assigns each node to a position on a low-dimensional manifold where distance is inversely proportional to connection likelihood. More positive manifold curvature encourages more and tighter communities; negative curvature induces repulsion. We consistently estimate manifold type, dimension, and curvature from simply connected, complete Riemannian manifolds of constant curvature. We represent the graph as a noisy distance matrix based on the ties between cliques, then develop hypothesis tests to determine whether the observed distances could plausibly be embedded isometrically in each of the candidate geometries. We apply our approach to datasets from economics and neuroscience.}},
+  doi      = {10.1093/jrsssb/qkad002},
+  eprint   = {https://academic.oup.com/jrsssb/article-pdf/85/2/240/50204715/qkad002.pdf},
+  url      = {https://doi.org/10.1093/jrsssb/qkad002},
+}
+
+@Article{honkela2010approximate,
+  author  = {Honkela, Antti and Raiko, Tapani and Kuusela, Mikael and Tornio, Matti and Karhunen, Juha},
+  journal = {Journal of Machine Learning Research},
+  title   = {Approximate Riemannian conjugate gradient learning for fixed-form variational Bayes},
+  year    = {2010},
+  issn    = {1532-4435},
+  pages   = {3235-3268},
+  volume  = {11},
+}
+
+@Article{le2022estimating,
+  author  = {Le, Can M. and Levina, Elizaveta},
+  journal = {Electronic Journal of Statistics},
+  title   = {Estimating the number of communities by spectral methods},
+  year    = {2022},
+  month   = jan,
+  number  = {1},
+  pages   = {3315--3342},
+  volume  = {16},
+  doi     = {10.1214/21-EJS1971},
+  url     = {https://doi.org/10.1214/21-EJS1971},
+}
+
+@Article{baker2023protocol,
+  author                 = {Baker, Kelly K. and Simiyu, Sheillah and Busienei, Phylis and Gutema, Fanta D. and Okoth, Bonphace and Agira, John and Amondi, Christine S. and Ziraba, Abdhalah and Kapanka, Alexis G. and Osinuga, Abisola and Ouma, Collins and Sewell, Daniel K. and Gaire, Sabin and Tumwebaze, Innocent K. and Mberu, Blessing},
+  journal                = {BMJ open},
+  title                  = {Protocol for the PATHOME study: a cohort study on urban societal development and the ecology of enteric disease transmission among infants, domestic animals and the environment.},
+  year                   = {2023},
+  month                  = {Nov},
+  pages                  = {e076067},
+  volume                 = {13},
+  electronic-issn        = {2044-6055},
+  linking-issn           = {2044-6055},
+  abstract               = {INTRODUCTION: Global morbidity from enteric infections and diarrhoea remains high in children in low-income and middle-income countries, despite significant investment over recent decades in health systems and water and sanitation infrastructure. Other types of societal development may be required to reduce disease burden. Ecological research on the influence of household and neighbourhood societal development on pathogen transmission dynamics between humans, animals and the environment could identify more effective strategies for preventing enteric infections. METHODS AND ANALYSIS: The 'enteric pathome'-that is, the communities of viral, bacterial and parasitic pathogens transmitted from human and animal faeces through the environment is taxonomically complex in high burden settings. This integrated cohort-exposure assessment study leverages natural socioeconomic spectrums of development to study how pathome complexity is influenced by household and neighbourhood infrastructure and hygiene conditions. We are enrolling under 12-month-old children in low-income and middle-income neighbourhoods of two Kenyan cities (Nairobi and Kisumu) into a 'short-cohort' study involving repeat testing of child faeces for enteric pathogens. A mid-study exposure assessment documenting infrastructural, behavioural, spatial, climate, environmental and zoonotic factors characterises pathogen exposure pathways in household and neighbourhood settings. These data will be used to inform and validate statistical and agent-based models (ABM) that identify individual or combined intervention strategies for reducing multipathogen transmission between humans, animals and environment in urban Kenya. ETHICS AND DISSEMINATION: The protocols for human subjects' research were approved by Institutional Review Boards at the University of Iowa (ID-202004606) and AMREF Health Africa (ID-ESRC P887/2020), and a national permit was obtained from the Kenya National Commission for Science Technology and Innovation (ID# P/21/8441). The study was registered on Clinicaltrials.gov (Identifier: NCT05322655) and is in pre-results stage. Protocols for research on animals were approved by the University of Iowa Animal Care and Use Committee (ID 0042302).},
+  address                = {England},
+  article-doi            = {10.1136/bmjopen-2023-076067},
+  article-pii            = {bmjopen-2023-076067},
+  completed              = {20231127},
+  electronic-publication = {20231124},
+  grantno                = {R01 TW011795/TW/FIC NIH HHS/United States},
+  history                = {2023/11/24 20:53 [entrez]},
+  issue                  = {11},
+  keywords               = {Child, Animals, Infant, Humans, *Animals, Domestic, Cohort Studies, Kenya/epidemiology, *Diarrhea/prevention & control, Sanitation, Epidemiology, Gastrointestinal infections, Infection control, MICROBIOLOGY, Neglected Diseases, Public health},
+  language               = {eng},
+  location-id            = {e076067},
+  nlm-unique-id          = {101552874},
+  owner                  = {NLM},
+  publication-status     = {epublish},
+  revised                = {20240104},
+  second-id              = {ClinicalTrials.gov/NCT05322655},
+  source                 = {BMJ Open. 2023 Nov 24;13(11):e076067. doi: 10.1136/bmjopen-2023-076067.},
+  status                 = {MEDLINE},
+  subset                 = {IM},
+  termowner              = {NOTNLM},
+  title-abbreviation     = {BMJ Open},
+}
+
+@InProceedings{ward2013estimating,
+  author             = {Ward, Michael M.},
+  booktitle          = {The Journal of rheumatology},
+  title              = {Estimating disease prevalence and incidence using administrative data: some assembly required.},
+  year               = {2013},
+  address            = {Canada},
+  month              = {Aug},
+  pages              = {1241-3},
+  volume             = {40},
+  electronic-issn    = {1499-2752},
+  linking-issn       = {0315-162X},
+  print-issn         = {0315-162X},
+  article-doi        = {10.3899/jrheum.130675},
+  article-pii        = {40/8/1241},
+  comment            = {J Rheumatol. 2013 Aug;40(8):1334-6. PMID: 23772078},
+  completed          = {20140630},
+  grantno            = {ZIA AR041153-09/ImNIH/Intramural NIH HHS/United States},
+  history            = {2014/07/01 06:00 [medline]},
+  issue              = {8},
+  keywords           = {Female, Humans, Lupus Erythematosus, Systemic/*epidemiology, Male},
+  language           = {eng},
+  location-id        = {10.3899/jrheum.130675 [doi]},
+  manuscript-id      = {NIHMS625401},
+  nlm-unique-id      = {7501984},
+  owner              = {NLM},
+  publication-status = {ppublish},
+  revised            = {20211021},
+  source             = {J Rheumatol. 2013 Aug;40(8):1241-3. doi: 10.3899/jrheum.130675.},
+  status             = {MEDLINE},
+  subset             = {IM},
+  title-abbreviation = {J Rheumatol},
+}
+
+@Book{bruce2008quantitative,
+  author    = {Bruce, Nigel and Pope, Daniel and Stanistreet, Debbi},
+  title     = {Quantitative Methods for Health Research: A Practical Interactive Guide to Epidemiology and Statistics},
+  year      = {2008},
+  isbn      = {9780470022740},
+  copyright = {Copyright 2013 Elsevier B.V., All rights reserved.},
+  language  = {eng},
+}
+
+@Article{furumoto1967mathematical,
+  author   = {Warren A. Furumoto and Ray Mickey},
+  journal  = {Virology},
+  title    = {A mathematical model for the infectivity-dilution curve of tobacco mosaic virus: Theoretical considerations},
+  year     = {1967},
+  issn     = {0042-6822},
+  number   = {2},
+  pages    = {216-223},
+  volume   = {32},
+  abstract = {Previous interpretations of infectivity-dilution curves, as obtained with plant viruses, do not account satisfactorily for some experimental observations. A new model based on theoretical considerations was derived to explain the infectivity-dilution curves obtained with tobacco mosaic virus (TMV). While a single viable TMV particle may initiate infection in any epidermal cell of a leaf, each cell is assumed to have an associated probability that a given TMV particle will establish infection; it is assumed that these probabilities are not necessarily the same for all cells, but may vary from cell to cell. A mathematical expression for the infectivity-dilution curve is derived from additional assumptions about the distribution of the cell infection probabilities. An approximation, which is appropriate when a small fraction of the total number of cells develop lesions, is developed as a limiting case of the derived expression. The approximation, which is of the form y = A log (1 + BV), in which y is the expected number of lesions per half leaf, V is virus concentration, and A and B are constants, is valid under a much broader class of descriptions of the distribution of cell probabilities than that used in deriving the complete equation. In terms of the approximation, the number of lesions is proportional to the concentration at low concentrations, and is proportional to the logarithm of the concentration at high concentrations. Comparison of experimental data with the developed equations is made in a succeeding paper (Furumoto and Mickey, 1967), in which biological implications of the model are discussed.},
+  doi      = {https://doi.org/10.1016/0042-6822(67)90271-1},
+  url      = {https://www.sciencedirect.com/science/article/pii/0042682267902711},
+}
+
+@Article{soller2006use,
+  author    = {Soller, Jeffrey A},
+  journal   = {Journal of water and health.},
+  title     = {Use of microbial risk assessment to inform the national estimate of acute gastrointestinal illness attributable to microbes in drinking water},
+  year      = {2006},
+  issn      = {1477-8920},
+  number    = {S2},
+  pages     = {165--186},
+  volume    = {4},
+  address   = {London ; Avenel, NJ :},
+  publisher = {IWA Pub.,},
+}
+
+@Article{sewell2024posterior,
+  author  = {Sewell, Daniel K.},
+  journal = {Bayesian Analysis},
+  title   = {Posterior shrinkage towards linear subspaces},
+  year    = {2024},
+  note    = {Accessed: 20 May, 2020},
+  volume  = {In press},
+}
+
+@Article{gutema202enterococcus,
+  author  = {Gutema, Fanta D. and Cumming, Oliver and Mumma, Jane and Simiyu, Sheillah and Attitwa, Edwin and Okoth, Bonphace and Denge, John and Sewell, Daniel and Baker, Kelly K.},
+  journal = {Epidemiology and Infection},
+  title   = {Enterococcus contamination of infant foods and implications for exposure to food-borne pathogens in peri-urban neighborhoods of Kisumu, Kenya},
+  year    = {2024},
+  pages   = {1–32},
+  doi     = {10.1017/S0950268824000062},
+}
+
+@Manual{rlanguage,
+  title        = {R: A Language and Environment for Statistical Computing},
+  address      = {Vienna, Austria},
+  author       = {{R Core Team}},
+  organization = {R Foundation for Statistical Computing},
+  year         = {2023},
+  url          = {https://www.R-project.org/},
+}
+
+@Article{parker2018hostmicrobe,
+  author                 = {Parker, Aimée and Lawson, Melissa A. E. and Vaux, Laura and Pin, Carmen},
+  journal                = {Environmental Microbiology},
+  title                  = {Host-microbe interaction in the gastrointestinal tract.},
+  year                   = {2018},
+  month                  = {Jul},
+  pages                  = {2337-2353},
+  volume                 = {20},
+  electronic-issn        = {1462-2920},
+  linking-issn           = {1462-2912},
+  print-issn             = {1462-2912},
+  abstract               = {The gastrointestinal tract is a highly complex organ in which multiple dynamic physiological processes are tightly coordinated while interacting with a dense and extremely diverse microbial population. From establishment in early life, through to host-microbe symbiosis in adulthood, the gut microbiota plays a vital role in our development and health. The effect of the microbiota on gut development and physiology is highlighted by anatomical and functional changes in germ-free mice, affecting the gut epithelium, immune system and enteric nervous system. Microbial colonisation promotes competent innate and acquired mucosal immune systems, epithelial renewal, barrier integrity, and mucosal vascularisation and innervation. Interacting or shared signalling pathways across different physiological systems of the gut could explain how all these changes are coordinated during postnatal colonisation, or after the introduction of microbiota into germ-free models. The application of cell-based in-vitro experimental systems and mathematical modelling can shed light on the molecular and signalling pathways which regulate the development and maintenance of homeostasis in the gut and beyond.},
+  address                = {England},
+  article-doi            = {10.1111/1462-2920.13926},
+  article-pii            = {EMI13926},
+  completed              = {20190926},
+  electronic-publication = {20171110},
+  history                = {2017/09/12 06:00 [entrez]},
+  issue                  = {7},
+  keywords               = {Animals, *Gastrointestinal Microbiome/physiology, Gastrointestinal Tract/microbiology, Homeostasis, *Host Microbial Interactions, Humans, Signal Transduction, Symbiosis},
+  language               = {eng},
+  location-id            = {10.1111/1462-2920.13926 [doi]},
+  nlm-unique-id          = {100883692},
+  owner                  = {NLM},
+  publication-status     = {ppublish},
+  revised                = {20230928},
+  source                 = {Environ Microbiol. 2018 Jul;20(7):2337-2353. doi: 10.1111/1462-2920.13926. Epub 2017 Nov 10.},
+  status                 = {MEDLINE},
+  subset                 = {IM},
+  title-abbreviation     = {Environ Microbiol},
+}
+
+@Article{frome1985use,
+  author   = {Frome, Edward L. and Checkoway, Harvey},
+  journal  = {American Journal of Epidemiology},
+  title    = {Use of Poisson regression models in estimating incidence rates and ratios},
+  year     = {1985},
+  issn     = {0002-9262},
+  number   = {2},
+  pages    = {309-323},
+  volume   = {121},
+  abstract = {{Summarizing relative risk estimates across strata of a covariate is commonly done in comparative epidemiologic studies of incidence or mortality. Conventional Mantel-Haenszel and rate standardization techniques used for this purpose are strictly suitable only when there is no interaction between relative risk and the covariate, and tests for interaction typically are limited to examination for departures from linearity. Poisson regression modeling offers an alternative technique which can be used for summarizing relative risk and for evaluating complex interactions with covariates. A more general application of Poisson regression is its utility in modeling disease rates according to postulated etlologic mechanisms of exposures or according to disease expression characteristics in the population. The applications of Poisson regression analysis to problems of summarizing relative risk and disease rate modeling are illustrated with examples of cancer incidence and mortality data, including an example of a nonlinear model predicted by the multistage theory of carcinogenesis.}},
+  doi      = {10.1093/oxfordjournals.aje.a114001},
+  eprint   = {https://academic.oup.com/aje/article-pdf/121/2/309/265489/121-2-309.pdf},
+  url      = {https://doi.org/10.1093/oxfordjournals.aje.a114001},
+}
+
+@Article{Tu,
+  author   = {Tu, Shin-Ping and Garcia, Brittany and Zhu, Xi and Sewell, Daniel and Mishra, Vimal and Matin, Khalid and Dow, Alan},
+  journal  = {Learning Health Systems},
+  title    = {Patient care in complex Sociotechnological ecosystems and learning health systems},
+  number   = {n/a},
+  pages    = {e10427},
+  volume   = {n/a},
+  abstract = {Abstract The learning health system (LHS) model was proposed to provide real-time, bi-directional flow of learning using data captured in health information technology systems to deliver rapid learning in healthcare delivery. As highlighted by the landmark National Academy of Medicine report “Crossing the Quality Chasm,” the U.S. healthcare delivery industry represents complex adaptive systems, and there is an urgent need to develop innovative methods to identify efficient team structures by harnessing real-world care delivery data found in the electronic health record (EHR). We offer a discussion surrounding the complexities of team communication and how solutions may be guided by theories such as the Multiteam System (MTS) framework and the Multitheoretical Multilevel Framework of Communication Networks. To advance healthcare delivery science and promote LHSs, our team has been building a new line of research using EHR data to study MTS in the complex real world of cancer care delivery. We are developing new network metrics to study MTSs and will be analyzing the impact of EHR communication network structures on patient outcomes. As this research leads to patient care delivery interventions/tools, healthcare leaders and healthcare professionals can effectively use health IT data to implement the most evidence-based collaboration approaches in order to achieve the optimal LHS and patient outcomes.},
+  doi      = {https://doi.org/10.1002/lrh2.10427},
+  eprint   = {https://onlinelibrary.wiley.com/doi/pdf/10.1002/lrh2.10427},
+  keywords = {learning health system, multiteam systems, team communication},
+  url      = {https://onlinelibrary.wiley.com/doi/abs/10.1002/lrh2.10427},
+}
+
+@InCollection{harkins2017oxford,
+  author    = {Harkins, Stephen G. and Williams, Kipling D.},
+  booktitle = {The Oxford Handbook of Social Influence},
+  publisher = {Oxford University Press},
+  title     = {Introduction and Overview},
+  year      = {2017},
+  isbn      = {9780199859870},
+  month     = {09},
+  abstract  = {{The study of social influence has been central to social psychology since its inception. In fact, research on social influence began in the 1880s, predating the coining of the term social psychology. However, by the mid-1980s, interest in this area had waned. Now the pendulum is swinging back, as seen in growing interest in non-cognitive, motivational accounts. Our hope is that the publication of this volume will aid this movement. The chapters, written by leading scholars, cover a variety of topics in social influence, incorporating a range of levels of analysis (intrapersonal, interpersonal, and intragroup) and both source and target effects. The book also includes chapters on theories that are most relevant to social influence, as well as a set of chapters on social influence in applied settings. Finally, we include a section that considers the future of social influence in social psychology.}},
+  doi       = {10.1093/oxfordhb/9780199859870.013.1},
+  eprint    = {https://academic.oup.com/book/0/chapter/215258949/chapter-ag-pdf/44585548/book\_28375\_section\_215258949.ag.pdf},
+  url       = {https://doi.org/10.1093/oxfordhb/9780199859870.013.1},
+}
+
+@InBook{cialdini2010social,
+  author    = {Cialdini, R. B., and Griskevicius, V. (},
+  chapter   = {Social influence},
+  editor    = {Finkel, Eli J. and Baumeister, Roy F.},
+  pages     = {385-418},
+  publisher = {Oxford University Press},
+  title     = {Advanced Social Psychology : The State of the Science},
+  year      = {2010},
+}
+
+
+
+
+
+
+@Article{ashida2012social,
+  author   = {Sato Ashida and Anna V. Wilkinson and Laura M. Koehly},
+  journal  = {American Journal of Health Promotion},
+  title    = {Social Influence and motivation to change health behaviors among Mexican-origin adults: Implications for diet and physical activity},
+  year     = {2012},
+  note     = {PMID: 22208416},
+  number   = {3},
+  pages    = {176-179},
+  volume   = {26},
+  abstract = {Purpose.To evaluate whether influence from social network members is associated with motivation to change dietary and physical activity behaviors.Design.Baseline assessment followed by mailing of family health history–based personalized messages (2 weeks) and follow-up assessment (3 months).Setting.Families from an ongoing population-based cohort in Houston, Texas.Subjects.475 adults from 161 Mexican-origin families. Out of 347 households contacted, 162 (47\%) participated.Measures.Family health history, social networks, and motivation to change behaviors.Analysis.Two-level logistic regression modeling.Results.Having at least one network member who encourages one to eat more fruits and vegetables (p = .010) and to engage in regular physical activity (p = .046) was associated with motivation to change the relevant behavior. About 40\% of the participants did not have encouragers for these behaviors.Conclusions.Identification of new encouragers within networks and targeting natural encouragers (e.g., children, spouses) may increase the efficacy of interventions to motivate behavioral changes among Mexican-origin adults.},
+  doi      = {10.4278/ajhp.100107-QUAN-2},
+  eprint   = {https://doi.org/10.4278/ajhp.100107-QUAN-2},
+  url      = {https://doi.org/10.4278/ajhp.100107-QUAN-2},
+}
+
+@Article{beal2001social,
+  author   = {Beal, Anne C. and Ausiello, John and Perrin, James M.},
+  journal  = {Journal of Adolescent Health},
+  title    = {Social influences on health-risk behaviors among minority middle school students},
+  year     = {2001},
+  issn     = {1054-139X},
+  number   = {6},
+  pages    = {474--480},
+  volume   = {28},
+  abstract = {Purpose: To determine whether parent social influences are associated with health-risk behaviors more than peer social influences among young minority adolescents. Methods: We conducted a cross-sectional survey of seventh-grade students in a public urban magnet middle school using a survey instrument adapted from the Centers for Disease Control and Prevention Youth Risk Behavior Survey. The sample consisted of all seventh-grade students in the school, and the survey was part of a needs assessment for a school-based health education program. We measured four health-risk behaviors: use of (a) tobacco, (b) alcohol, (c) onset of sexual activity, and (d) marijuana use; and five social influences: (a) parent disapproval of health-risk behaviors, (b) parent modeling of health-risk behaviors, (c) parent monitoring of health-risks, (d) peer disapproval of health risks, and (e) peer modeling of health-risk behaviors. The analyses included measures of the prevalence of health-risk behaviors, bivariate analyses to evaluate relationships between health-risk behaviors and social influences, and regressions analyses to determine the independent associations of the social influences with the four health-risk behaviors. Results: Twenty percent of respondents reported using tobacco, over 50% used alcohol in the past year, 13.3% were sexually active, and 12% reported marijuana use. Parent influences were associated with differences in alcohol use, whereas peer influences were associated with differences in all measured health-risk behaviors: tobacco and alcohol use, sexual activity, and marijuana use. Regression analyses demonstrated that peer social influences were the only measures independently associated with abstinence from tobacco (p < .05), alcohol (p < .01), sexual activity (p < .05), and marijuana use (p < .05). In all analyses, peers emerged as the most consistent social influence on health-risk behavior. Conclusion: This study suggests peers and peer group behavior may be better predictors of adolescent health-risk behaviors than parental social influences among young adolescents.},
+  doi      = {10.1016/S1054-139X(01)00194-X},
+  keywords = {Parent influence, Peer influence, Social influence, Tobacco, Alcohol, Sexual activity, Drug use, Health-risk behaviors, Adolescents, Minority},
+  url      = {https://www.sciencedirect.com/science/article/pii/S1054139X0100194X},
+}
+
+@Article{latkin2015social,
+  author    = {Latkin, Carl A. and Knowlton, Amy R.},
+  journal   = {Behavioral Medicine},
+  title     = {Social network assessments and interventions for health behavior change: A critical review},
+  year      = {2015},
+  issn      = {0896-4289},
+  month     = jul,
+  number    = {3},
+  pages     = {90--97},
+  volume    = {41},
+  comment   = {doi: 10.1080/08964289.2015.1034645},
+  doi       = {10.1080/08964289.2015.1034645},
+  publisher = {Taylor & Francis},
+  url       = {https://doi.org/10.1080/08964289.2015.1034645},
+}
+
+
+
+
+
+
+@Article{shalizi2011homophily,
+  author   = {Cosma Rohilla Shalizi and Andrew C. Thomas},
+  journal  = {Sociological Methods \& Research},
+  title    = {Homophily and contagion are generically confounded in observational social network studies},
+  year     = {2011},
+  note     = {PMID: 22523436},
+  number   = {2},
+  pages    = {211-239},
+  volume   = {40},
+  abstract = {The authors consider processes on social networks that can potentially involve three factors: homophily, or the formation of social ties due to matching individual traits; social contagion, also known as social influence; and the causal effect of an individual’s covariates on his or her behavior or other measurable responses. The authors show that generically, all of these are confounded with each other. Distinguishing them from one another requires strong assumptions on the parametrization of the social process or on the adequacy of the covariates used (or both). In particular the authors demonstrate, with simple examples, that asymmetries in regression coefficients cannot identify causal effects and that very simple models of imitation (a form of social contagion) can produce substantial correlations between an individual’s enduring traits and his or her choices, even when there is no intrinsic affinity between them. The authors also suggest some possible constructive responses to these results.},
+  doi      = {10.1177/0049124111404820},
+  eprint   = {https://doi.org/10.1177/0049124111404820},
+  url      = {https://doi.org/10.1177/0049124111404820},
+}
+
+@Article{busienei2024adevelopment,
+  author     = {Busienei,Phylis J. and Simiyu,Sheillah and Sewell,Daniel K. and Osinuga,Abisola and Baker,Kelly K.},
+  journal    = {CABI One Health},
+  title      = {Development of a protocol for using geo-trackers to identify zoonotic enteric pathogen transmission pathways in a pilot study in Kenya},
+  year       = {2024},
+  abstract   = {Humans and animals can be exposed to fecally-transmitted pathogens in both private and public domain environments. Animals may also acquire pathogen infections from these two environments and transmit them to humans through different pathways. Evidence on how often and where interactions occur between the two environments could improve the effectiveness of public health programs for preventing zoonotic disease transmission and response to disease outbreaks. This study aimed to develop a protocol for using geo-trackers to measure the spatial-temporal movement and interaction between animals and children in households and public areas in low- and middle-income categories of urban neighbourhoods in Kenya. It also aimed to identify opportunities and challenges for the scale-up of these methods’ for surveillance of other zoonotic diseases of public health significance. One commercial geo-tracker device with the best technological performance and usability that met pre-defined criteria for the study context was identified. Community engagement meetings were then conducted to gather input on a proposed study protocol. Afterwards, infants and animals were geo-tracked in 10 households in urban informal settlements of Kibera and Jericho, Nairobi over two consecutive weeks with iterative improvements to protocols. The effectiveness of the geo-tracking exercise was evaluated through in-depth interviews with Community Health Volunteers (CHVs) and infant caregivers. Animal and infant behaviour and battery reliability of the geo-trackers were also monitored; and observed opportunities and challenges in implementing the protocol during the exercise were documented. Community members were receptive and accepted the use of geo-trackers on animals and children. In pilot testing, there was no change of behaviour from 10 infants tracked. Discomfort was observed for up to 30 min after the placement for some of the seven animals tracked, but the animals quickly adjusted. The battery for all geo-tracker devices lasted for the 24-h geo-tracking period. Some caregivers and CHVs were concerned whether the geo-trackers could record personal information. It was shown that geo-tracker devices can be successfully deployed to study animal-child interactions and movement in different categories of urban neighbourhoods. Recommendations have been made on the lessons learnt from the study to help scientists who would use geo-trackers for future community-based human and animal research.  One Health impact statement Assessing human and animal risks of acquiring enteric infections from environmental contamination, or contributing to pathogen contamination of the environment requires understanding spatial-temporal patterns of human and animal movement between private households and the community. Movement of domestic animals is relevant for understanding household-community spatial patterns of pathogen transmission because animal ownership and contact with humans is common, and free-roaming animals carrying enteric pathogens can spread diverse faecal pathogens between environments. The community-based participatory research approach of this study evaluated implementation feasibility from the lens of technical usability and reliability of geo-tracking devices, as well as social acceptability and ethics related to using such devices for the community-based study of human and animal subjects in urban settings. Evidence and recommendations from this study will be useful to anyone interested in understanding human-animal-environment interactions and their contributions to infectious disease transmission.},
+  doi        = {10.1079/cabionehealth.2024.0011},
+  issue-date = {January 2024},
+  publisher  = {CABI},
+  url        = {https://doi.org/10.1079/cabionehealth.2024.0011},
+}
+
+@Article{sewell2024estimating,
+  author        = {Daniel K. Sewell and Kelly K. Baker},
+  title         = {Estimating risk factors for pathogenic dose accrual from longitudinal data},
+  year          = {2024},
+  archiveprefix = {arXiv},
+  eprint        = {2407.20051},
+  primaryclass  = {stat.ME},
+  url           = {https://arxiv.org/abs/2407.20051},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
