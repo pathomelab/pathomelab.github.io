@@ -8,6 +8,8 @@ title: "People"
 
 # SUNY Buffalo
 
+[![](https://myweb.uiowa.edu/dksewell/pathome/suny_buffalo.png){width=40% fig-align="left"}](https://publichealth.buffalo.edu/epidemiology-and-environmental-health)
+
 ![](https://myweb.uiowa.edu/dksewell/pathome/kelly_baker.jpg){fig-align="left" width=15%} Kelly Baker (Principal Investigator)
 
 
@@ -16,7 +18,7 @@ title: "People"
 <!-- [![](https://myweb.uiowa.edu/dksewell/pathome/Block-IOWA-Black-TM.png)](https://uiowa.edu/) -->
 <!-- [![](https://myweb.uiowa.edu/dksewell/pathome/Block IOWA BLACK.png)](https://uiowa.edu/) -->
 <!-- [![](https://myweb.uiowa.edu/dksewell/pathome/Block IOWA BLACK-TM.png)](https://uiowa.edu/) -->
-[![](https://myweb.uiowa.edu/dksewell/pathome/Block IOWA GOLD-CMYK.png){width=40% fig-align="left"}](https://uiowa.edu/)
+[![](https://myweb.uiowa.edu/dksewell/pathome/Block IOWA GOLD-CMYK.png){width=40% fig-align="left"}](https://www.public-health.uiowa.edu/biostat/)
 <!-- [![](https://myweb.uiowa.edu/dksewell/pathome/Block IOWA GOLD-CMYK-TM.png)](https://uiowa.edu/) -->
 <!-- [![](https://myweb.uiowa.edu/dksewell/pathome/Block IOWA GOLD-ffcd00.png)](https://uiowa.edu/) -->
 <!-- [![](https://myweb.uiowa.edu/dksewell/pathome/Block IOWA GOLD-ffcd00-TM.png)](https://uiowa.edu/) -->
