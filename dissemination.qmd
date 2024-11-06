@@ -6,6 +6,8 @@ nocite: |
   @busienei2024adevelopment
   @baker2023protocol
   @pathome_sop_2023
+  @gutema2024spatial
+  @mberu2024landscape
 # suppress-bibliography: true  
 ---
 

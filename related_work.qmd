@@ -7,6 +7,8 @@ nocite: |
   @medgyesi2018landscape,
   @medgyesi2018where,
   @baker2018fecalfingerprints
+  @gutema202enterococcus
+  @houser2024multipathogen
 ---
 
 
