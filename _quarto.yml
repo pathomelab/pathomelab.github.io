@@ -12,11 +12,13 @@ website:
       - people.qmd
       - dissemination.qmd
       - related_work.qmd
+      - study_design.qmd
+      - geotracking.qmd
       - contact_us.qmd
 
 format:
   html:
-    theme: slate
+    theme: darkly
     css: styles.css
     toc: true
     toc-location: left

@@ -1,0 +1,13 @@
+---
+title: "Geotracking"
+---
+
+
+::: {layout="[[65,-5,30], [60]]" layout-valign="center"}
+![](https://myweb.uiowa.edu/dksewell/pathome/geotracking_exercise-kibera.png)<!-- {fig-align="center" width = 80%} -->
+
+![](https://myweb.uiowa.edu/dksewell/pathome/geotracking_exercise-2m.jpg)
+
+{{< video https://myweb.uiowa.edu/dksewell/pathome/hh146.mp4 >}}
+:::
+
