@@ -1,6 +1,13 @@
 ---
 title: "People"
+lightbox: true
 ---
+
+
+```{=html}
+<iframe src="people_network.html" width="100%" height="600px" style="border:none;"></iframe>
+```
+
 
 ::: {.panel-tabset}
 
@@ -29,19 +36,20 @@ title: "People"
 
 ![](https://myweb.uiowa.edu/dksewell/pathome/sabin_gaire.png){fig-align="left" width=15%} Sabin Gaire (Graduate Research Assistant)
 
-![](https://myweb.uiowa.edu/dksewell/pathome/fanta_gutema.jpg){fig-align="left" width=15%} Fanta Gutema (Post-doctoral Fellow)
-
 
 ![](https://myweb.uiowa.edu/dksewell/pathome/daniel_kakou.jpg){fig-align="left" width=15%} Daniel Kakou (Graduate Research Assistant)
 
 
-<!-- ![](https://myweb.uiowa.edu/dksewell/pathome/){fig-align="left" width=15%} --> Alexis Kapanka (Laboratory Manager)
+![](img/mugshots/alexis_kapanka.jpg){fig-align="left" width=15%} Alexis Kapanka (Laboratory Manager)
 
 
 
 <!-- ![](https://myweb.uiowa.edu/dksewell/pathome/){fig-align="left" width=15%} --> John Kessler (Graduate Research Assistant)
 
 ![](https://myweb.uiowa.edu/dksewell/pathome/krysan_mark.jpg){fig-align="left" width=15%} Mark Krysan (Graduate Research Assistant)
+
+![](img/mugshots/tan_nguyen.jpg){fig-align="left" width=15%} Tan Nguyen (Graduate Research Assistant)
+
 
 
 ![](https://myweb.uiowa.edu/dksewell/pathome/sriram_pemmaraju.jpg){fig-align="left" width=15%} Sriram Pemmaraju (Co-investigator)
@@ -84,6 +92,14 @@ title: "People"
 ![](https://myweb.uiowa.edu/dksewell/pathome/collins_ouma.png){fig-align="left" width=15%} Collins Ouma (Co-investigator)
 
 ![](https://myweb.uiowa.edu/dksewell/pathome/marsha_sharon.jpg){fig-align="left" width=15%} Marsha Sharon (Laboratory Assistant)
+
+
+# University of Memphis
+[![](img/umemphis.jpg){fig-align="left" width=40%}](https://www.memphis.edu/)
+
+
+![](https://myweb.uiowa.edu/dksewell/pathome/fanta_gutema.jpg){fig-align="left" width=15%} Fanta Gutema (Co-investigator)
+
 
 
 # Affiliates
@@ -130,12 +146,13 @@ title: "People"
 ![](https://myweb.uiowa.edu/dksewell/pathome/daniel_kakou.jpg){fig-align="left" width=15%} Daniel Kakou (Graduate Research Assistant)
 
 
+<!-- ![](https://myweb.uiowa.edu/dksewell/pathome/){fig-align="left" width=15%} --> John Kessler (Graduate Research Assistant)
+
 
 ![](https://myweb.uiowa.edu/dksewell/pathome/krysan_mark.jpg){fig-align="left" width=15%} Mark Krysan (Graduate Research Assistant)
 
 
-<!-- ![](https://myweb.uiowa.edu/dksewell/pathome/){fig-align="left" width=15%} --> John Kessler (Graduate Research Assistant)
-
+![](img/mugshots/tan_nguyen.jpg){fig-align="left" width=15%} Tan Nguyen (Graduate Research Assistant)
 
 
 ![](https://myweb.uiowa.edu/dksewell/pathome/sriram_pemmaraju.jpg){fig-align="left" width=15%} Sriram Pemmaraju (Co-investigator)

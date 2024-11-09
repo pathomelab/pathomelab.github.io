@@ -39,8 +39,9 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="dark">
-<script src="site_libs/quarto-contrib/videojs/video.min.js"></script>
-<link href="site_libs/quarto-contrib/videojs/video-js.css" rel="stylesheet">
+<script src="site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -161,29 +162,104 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<div>
+<div class="tabset-margin-container"></div><div class="panel-tabset">
+<ul class="nav nav-tabs" role="tablist"><li class="nav-item" role="presentation"><a class="nav-link active" id="tabset-1-1-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-1" role="tab" aria-controls="tabset-1-1" aria-selected="true">Experiment</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-1-2-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-2" role="tab" aria-controls="tabset-1-2" aria-selected="false">Infants</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-1-3-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-3" role="tab" aria-controls="tabset-1-3" aria-selected="false">Domestic animals</a></li></ul>
+<div class="tab-content">
+<div id="tabset-1-1" class="tab-pane active" role="tabpanel" aria-labelledby="tabset-1-1-tab">
+<p>While our previous work developing a geo-tracking protocol addressed issues of feasibility, this study aimed to evaluate the quality of the geotracking movement data in low- and middle-income urban neighborhoods of Nairobi, Kenya. We considered the following measures of data quality: absolute validity, defined to be the fidelity between a geotracking device’s reported location and its true location; and intra-device reliability, defined as the tendency for a given geotracking device to report the same location when stationary. Additionally, in order to explain the variation that might be encountered in these urban settings, we considered different types of locations, namely open spaces, alleyways, and inside homes.</p>
+<section id="the-experimenters-at-work" class="level3">
+<h3 class="anchored" data-anchor-id="the-experimenters-at-work">The experimenters at work</h3>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="img/jericho-open.jpg" class="lightbox" data-gallery="experimenters" data-glightbox="description: .lightbox-desc-1" title="Jericho (open)"><img src="img/jericho-open.jpg" class="img-fluid figure-img" alt="Jericho (open)"></a></p>
+<figcaption>Jericho (open)</figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="img/jericho-alley.jpg" class="lightbox" data-gallery="experimenters" data-glightbox="description: .lightbox-desc-2" title="Jericho (alley)"><img src="img/jericho-alley.jpg" class="img-fluid figure-img" alt="Jericho (alley)"></a></p>
+<figcaption>Jericho (alley)</figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="img/kibera-open.jpg" class="lightbox" data-gallery="experimenters" data-glightbox="description: .lightbox-desc-3" title="Kibera (open)"><img src="img/kibera-open.jpg" class="img-fluid figure-img" alt="Kibera (open)"></a></p>
+<figcaption>Kibera (open)</figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="img/kibera-alley-cropped-v2.png" class="lightbox" data-gallery="experimenters" data-glightbox="description: .lightbox-desc-4" title="Kibera (alley)"><img src="img/kibera-alley-cropped-v2.png" class="img-fluid figure-img" alt="Kibera (alley)"></a></p>
+<figcaption>Kibera (alley)</figcaption>
+</figure>
+</div>
+</section>
+<section id="results" class="level3">
+<h3 class="anchored" data-anchor-id="results">Results</h3>
+<p>Distance between reported and actual locations (vertical axis) vs.&nbsp;positional uncertainty reported by Tractive devices (horizontal axis) for different locations in Jericho and Kibera. All units are in meters. The solid(orange) line represents the mean distance, and the dotted(blue) band represents the 95% prediction interval of absolute validity for Jericho and Kibera.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="img/open_abs_1.png" class="lightbox" data-gallery="results" data-glightbox="description: .lightbox-desc-5" title="Jericho (open)"><img src="img/open_abs_1.png" class="img-fluid figure-img" alt="Jericho (open)"></a></p>
+<figcaption>Jericho (open)</figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="img/open_abs_1kib.png" class="lightbox" data-gallery="results" data-glightbox="description: .lightbox-desc-6" title="Kibera (open)"><img src="img/open_abs_1kib.png" class="img-fluid figure-img" alt="Kibera (open)"></a></p>
+<figcaption>Kibera (open)</figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="img/alley_abs_1.png" class="lightbox" data-gallery="results" data-glightbox="description: .lightbox-desc-7" title="Jericho (alley)"><img src="img/alley_abs_1.png" class="img-fluid figure-img" alt="Jericho (alley)"></a></p>
+<figcaption>Jericho (alley)</figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="img/alley_abs_1kib.png" class="lightbox" data-gallery="results" data-glightbox="description: .lightbox-desc-8" title="Kibera (alley)"><img src="img/alley_abs_1kib.png" class="img-fluid figure-img" alt="Kibera (alley)"></a></p>
+<figcaption>Kibera (alley)</figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="img/indoor_abs_1.png" class="lightbox" data-gallery="results" data-glightbox="description: .lightbox-desc-9" title="Jericho (indoors)"><img src="img/indoor_abs_1.png" class="img-fluid figure-img" alt="Jericho (indoors)"></a></p>
+<figcaption>Jericho (indoors)</figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="img/indoor_abs_1kib.png" class="lightbox" data-gallery="results" data-glightbox="description: .lightbox-desc-10" title="Kibera (indoors)"><img src="img/indoor_abs_1kib.png" class="img-fluid figure-img" alt="Kibera (indoors)"></a></p>
+<figcaption>Kibera (indoors)</figcaption>
+</figure>
+</div>
+</section>
+</div>
+<div id="tabset-1-2" class="tab-pane" role="tabpanel" aria-labelledby="tabset-1-2-tab">
+<iframe src="deidentified_map-humans.html" width="100%" height="600px" style="border:none;"></iframe>
+</div>
+<div id="tabset-1-3" class="tab-pane" role="tabpanel" aria-labelledby="tabset-1-3-tab">
+<iframe src="deidentified_map-animals.html" width="90%" height="600px" style="border:none;"></iframe>
+<center>
+<img src="img/hacking_ggplot2_animal_legend.png" class="img-fluid">
+</center>
+</div>
+</div>
+</div>
 
-</div>
-<div class="quarto-layout-panel" data-layout="[[65,-5,30], [60]]">
-<div class="quarto-layout-row quarto-layout-valign-center">
-<div class="quarto-layout-cell" style="flex-basis: 65.0%;justify-content: flex-start;">
-<p><img src="https://myweb.uiowa.edu/dksewell/pathome/geotracking_exercise-kibera.png" class="img-fluid"><!-- {fig-align="center" width = 80%} --></p>
-</div>
-<div class="quarto-figure-spacer quarto-layout-cell" style="flex-basis: 5.0%;justify-content: flex-start;">
-<p>&nbsp;</p>
-</div>
-<div class="quarto-layout-cell" style="flex-basis: 30.0%;justify-content: center;">
-<p><img src="https://myweb.uiowa.edu/dksewell/pathome/geotracking_exercise-2m.jpg" class="img-fluid"></p>
-</div>
-</div>
-<div class="quarto-layout-row quarto-layout-valign-center">
-<div class="quarto-layout-cell" style="flex-basis: 100.0%;justify-content: flex-start;">
-<div class="quarto-video"><video id="video_shortcode_videojs_video1" class="video-js vjs-default-skin vjs-fluid" controls="" preload="auto" data-setup="{}" title=""><source src="https://myweb.uiowa.edu/dksewell/pathome/hh146.mp4"></video></div>
-</div>
-</div>
-</div>
 
-
+<div class="hidden" aria-hidden="true">
+<span class="glightbox-desc lightbox-desc-1">Jericho (open)</span>
+<span class="glightbox-desc lightbox-desc-2">Jericho (alley)</span>
+<span class="glightbox-desc lightbox-desc-3">Kibera (open)</span>
+<span class="glightbox-desc lightbox-desc-4">Kibera (alley)</span>
+<span class="glightbox-desc lightbox-desc-5">Jericho (open)</span>
+<span class="glightbox-desc lightbox-desc-6">Kibera (open)</span>
+<span class="glightbox-desc lightbox-desc-7">Jericho (alley)</span>
+<span class="glightbox-desc lightbox-desc-8">Kibera (alley)</span>
+<span class="glightbox-desc lightbox-desc-9">Jericho (indoors)</span>
+<span class="glightbox-desc lightbox-desc-10">Kibera (indoors)</span>
+</div>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -596,7 +672,31 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
-<script>videojs(video_shortcode_videojs_video1);</script>
+<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","openEffect":"zoom","loop":false,"selector":".lightbox","descPosition":"bottom"});
+window.onload = () => {
+  lightboxQuarto.on('slide_before_load', (data) => {
+    const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+    const href = trigger.getAttribute('href');
+    if (href !== null) {
+      const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+      if (imgEl !== null) {
+        const srcAttr = imgEl.getAttribute("src");
+        if (srcAttr && srcAttr.startsWith("data:")) {
+          slideConfig.href = srcAttr;
+        }
+      }
+    } 
+  });
+
+  lightboxQuarto.on('slide_after_load', (data) => {
+    const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+    if (window.Quarto?.typesetMath) {
+      window.Quarto.typesetMath(slideNode);
+    }
+  });
+
+};
+          </script>
 
 
 

@@ -1,13 +1,62 @@
 ---
 title: "Geotracking"
+lightbox: true
 ---
 
+::: {.panel-tabset}
 
-::: {layout="[[65,-5,30], [60]]" layout-valign="center"}
-![](https://myweb.uiowa.edu/dksewell/pathome/geotracking_exercise-kibera.png)<!-- {fig-align="center" width = 80%} -->
+## Experiment
+While our previous work developing a geo-tracking protocol addressed issues of feasibility, this study aimed to evaluate the quality of the geotracking movement data in low- and middle-income urban neighborhoods of Nairobi, Kenya. We considered the following measures of data quality: absolute validity, defined to be the fidelity between a geotracking device’s reported location and its true location; and intra-device reliability, defined as the tendency for a given geotracking device to report the same location when stationary. Additionally, in order to explain the variation that might be encountered in these urban settings, we considered different types of locations, namely open spaces, alleyways, and inside homes.
 
-![](https://myweb.uiowa.edu/dksewell/pathome/geotracking_exercise-2m.jpg)
 
-{{< video https://myweb.uiowa.edu/dksewell/pathome/hh146.mp4 >}}
+### The experimenters at work
+![Jericho (open)](img/jericho-open.jpg){group="experimenters"}
+
+![Jericho (alley)](img/jericho-alley.jpg){group="experimenters"}
+
+![Kibera (open)](img/kibera-open.jpg){group="experimenters"}
+
+![Kibera (alley)](img/kibera-alley-cropped-v2.png){group="experimenters"}
+
+
+### Results
+
+Distance between reported and actual locations (vertical axis) vs. positional uncertainty reported by Tractive devices (horizontal axis) for different locations in Jericho and Kibera. All units are in meters. The solid(orange) line represents the mean distance, and the dotted(blue) band represents the 95% prediction interval of absolute validity for Jericho and Kibera.
+
+![Jericho (open)](img/open_abs_1.png){group="results"}
+
+![Kibera (open)](img/open_abs_1kib.png){group="results"}
+
+![Jericho (alley)](img/alley_abs_1.png){group="results"}
+
+![Kibera (alley)](img/alley_abs_1kib.png){group="results"}
+
+![Jericho (indoors)](img/indoor_abs_1.png){group="results"}
+
+![Kibera (indoors)](img/indoor_abs_1kib.png){group="results"}
+
+
+
+
+
+## Infants
+
+```{=html}
+<iframe src="deidentified_map-humans.html" width="100%" height="600px" style="border:none;"></iframe>
+```
+
+
+
+
+## Domestic animals
+
+```{=html}
+<iframe src="deidentified_map-animals.html" width="90%" height="600px" style="border:none;"></iframe>
+```
+
+<center>
+![](img/hacking_ggplot2_animal_legend.png)
+</center>
+
 :::
 

@@ -1,0 +1,112 @@
+---
+pagetitle: "PATHOME Highlights"
+format: 
+  revealjs:
+    theme: dark
+    transition: slide
+    auto-slide: 10000  # Time in milliseconds (e.g., 5000ms = 5 seconds)
+    loop: true       # Enable looping
+    embed-resources: true
+    includes:
+      in-header: |
+        <style>
+          .reveal section {
+            font-size: 24px; /* Adjust the font size as needed */
+          }
+        </style>
+---
+
+## {background-color=rgba(0,0,0,0), style="font-size: 24px;"}
+
+```{=html}
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%;">
+  <img src="img/protocol_paper-nbhds.jpg" style="height:65%;">
+  <p style="text-align: center;">
+    From <a href="https://doi.org/10.1136/bmjopen-2023-076067">Baker et al. (2023)</a>, the PATHOME team articulated the need and scientific justification for a transdisciplinary One Health study of how improvements in societal conditions influences enteric pathogen transmission between animals, humans, and the environment. The study proposed multiple new data collection methods, such as use of geotrackers for measuring human-animal-environment spatial interactions and new microbiological approaches, as well as new statistical and computational analysis methods. It also proposed a study population design that aimed to test counterfactual theories about higher levels of development reducing pathogen transmission and a novel 14-day “short cohort” enrollment timeline to detect temporal dynamics of infection and recovery for pathogens with typically short (<14 day) clinical infection periods.
+  </p>
+</div>
+```
+
+
+
+## {background-color=rgba(0,0,0,0), style="font-size: 24px;"}
+
+```{=html}
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%;">
+  <img src="img/geotrackers_on_animals.jpg" style="height:50%;">
+  <p style="text-align: center;">
+    From <a href = "">Busienei et al. (2024)</a>, commercially available low-cost geotrackers can be used to measure human and animal spatial movement in urban environments. Involving communities in the design of study protocols and preliminary evaluation of device technical performance and logistical plans is critical for successful and ethical data collection. 
+  </p>
+</div>
+```
+
+
+## {background-color=rgba(0,0,0,0), style="font-size: 24px;"}
+
+```{=html}
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%;">
+  <img src="img/gutema_2024-jericho_vs_kibera_pathogens.jpg" style="height:65%;">
+  <p style="text-align: center;">
+    From <a href="https://doi.org/10.3390/ijerph21101351">Gutema et al. (2024)</a>, soil contamination by diverse types of enteric bacterial pathogens was less common at localized and broader neighborhood spatial scales in residential areas of a middle-class neighborhood (Jericho) than in a low-income slum (Kibera) of Nairobi, with Shigella bacteria only occurring in the slums. This pathogen data addresses a critical gap in knowledge about how well improvements in water and sanitation access and housing quality influence environmental health risks in low-income countries. While pathogens were less frequent in the middle-class neighborhood, multiple types of bacteria were still detected indicating gaps in hygiene conditions for the elimination of pathogens from the environment. 
+  </p>
+</div>
+```
+
+
+## {background-color=rgba(0,0,0,0), style="font-size: 24px;"}
+
+```{=html}
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%;">
+  <img src="img/houser_2024-concentration.png" style="height:60%;">
+  <p style="text-align: center;">
+    Building upon prior enteric pathogen co-transmission models developed by this team in the Social Microbes Study in 2018 and 2019, <a href="https://doi.org/10.1371/journal.pntd.0012564">Houser et al. (2024)</a> expanded this novel statistical approach to integrate quantitative behavioral observations on child contact with soil during play in residential environments with data on enteric pathogen contamination in soil from that play location in a low-income slum in Haiti to estimate children’s probability of exposure to individual and multiple enteric bacterial pathogens. Results show that infants, toddlers/early walkers, and mobile (2 to 5 years) children can ingest doses as high as 10^4 bacteria per hour for some bacteria during play in public soil in neighborhoods with poor hygiene conditions. Furthermore, they had a 32-36% chance of ingesting two or more types of bacteria during that time due to multi-pathogen contamination of that environment.
+  </p>
+</div>
+```
+
+
+## {background-color=rgba(0,0,0,0), style="font-size: 24px;"}
+
+
+```{=html}
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%;">
+  <img src="img/gutema_2024_food-table.png" style="height:65%;">
+  <p style="text-align: center;">
+    From <a href="https://www.cambridge.org/core/journals/epidemiology-and-infection/article/enterococcus-contamination-of-infant-foods-and-implications-for-exposure-to-foodborne-pathogens-in-periurban-neighbourhoods-of-kisumu-kenya/FD92A60523F29094D1BC01B060207920?utm_campaign=shareaholic&utm_medium=copy_link&utm_source=bookmark">Gutema et al. (2024)</a>, Enterococcus bacteria indicators of fecal contamination were prevalent in a variety of food prepared for infants in low-income Kisumu Kenya households, albeit often at low concentrations. However, many caregivers prepare infant food in the morning and store it, typically without refrigeration, for feeding throughout the day, which lead to increases in bacteria concentration over the day. Results indicate infant exposure to foodborne pathogens occurs from many food types and are highest when food is improperly stored.
+  </p>
+</div>
+```
+
+
+## {background-color=rgba(0,0,0,0), style="font-size: 24px;"}
+
+
+```{=html}
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%;">
+  <img src="img/sewell-incidence_table.png" style="height:65%;">
+  <p style="text-align: center;">
+    Like other large enteric studies, the prevalence of enteric pathogens in feces from infants in high disease burden settings is high, but unlike other studies, we are the first to provide quantitative evidence on the incidence of new infections for several types of enteric bacteria, ranging from 16 (7.5) of 214 infants) new Campylobacter infections to 54 (25% of 214 infants) new Enteraggregative E. coli infections over a 14-day cohort period with repeat feces testing. Manuscripts reporting clinical outcomes by age group and neighborhood are forthcoming, but this preliminary data allowed <a href="https://arxiv.org/abs/2407.20051">Sewell et al. (preprint in review)</a> to develop new mechanistic models that leverage information across multiple pathogens to provide dose accrual rate ratio parameters with strong biological plausibility that can be used in future models of relationships between risk factors under study and risk of infection.
+  </p>
+</div>
+```
+
+
+
+## {background-color=rgba(0,0,0,0), style="font-size: 24px;"}
+
+
+```{=html}
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%;">
+  <img src="img/mberu-policy.jpg" style="height:50%;">
+  <p style="text-align: center;">
+    From <a href="https://bmjopen.bmj.com/content/14/8/e081906">Mberu et al. (2024)</a>,  a policy landscape analysis of Kenyan policies for the prevention and management of diarrhea in children found interconnected policies related to health system objectives, such as providing access to Rotavirus vaccines and diarrhea and malnutrition management, as well as policies related to water, sanitation, and hand washing. However, policies did not address animal health, environmental hygiene, and the human interactions with animals and environment that contribute to zoonotic and environmentally-transmitted infections. No policies were found related to rapid, low-cost diagnostics, which remains a resource gap globally. Finally, policies were centered upon individual or household (e.g. WASH) models of health care implementation, rather than at community levels of scale. Policies addressing these gaps could improve Kenya’s success in reducing national enteric disease burden.
+  </p>
+</div>
+```
+
+
+
+
+
+
+

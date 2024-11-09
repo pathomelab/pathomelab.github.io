@@ -1,0 +1,181 @@
+---
+title: "People"
+lightbox: true
+---
+
+::: {.panel-tabset}
+
+## By Institution
+
+# SUNY Buffalo
+
+[![](https://myweb.uiowa.edu/dksewell/pathome/suny_buffalo.png){width=40% fig-align="left"}](https://publichealth.buffalo.edu/epidemiology-and-environmental-health)
+
+![](https://myweb.uiowa.edu/dksewell/pathome/kelly_baker.jpg){fig-align="left" width=15%} Kelly Baker (Principal Investigator)
+
+
+# University of Iowa
+
+<!-- [![](https://myweb.uiowa.edu/dksewell/pathome/Block-IOWA-Black-TM.png)](https://uiowa.edu/) -->
+<!-- [![](https://myweb.uiowa.edu/dksewell/pathome/Block IOWA BLACK.png)](https://uiowa.edu/) -->
+<!-- [![](https://myweb.uiowa.edu/dksewell/pathome/Block IOWA BLACK-TM.png)](https://uiowa.edu/) -->
+[![](https://myweb.uiowa.edu/dksewell/pathome/Block IOWA GOLD-CMYK.png){width=40% fig-align="left"}](https://www.public-health.uiowa.edu/biostat/)
+<!-- [![](https://myweb.uiowa.edu/dksewell/pathome/Block IOWA GOLD-CMYK-TM.png)](https://uiowa.edu/) -->
+<!-- [![](https://myweb.uiowa.edu/dksewell/pathome/Block IOWA GOLD-ffcd00.png)](https://uiowa.edu/) -->
+<!-- [![](https://myweb.uiowa.edu/dksewell/pathome/Block IOWA GOLD-ffcd00-TM.png)](https://uiowa.edu/) -->
+<!-- [![](https://myweb.uiowa.edu/dksewell/pathome/Block IOWA GOLD-ffcd00-TM.png)](https://uiowa.edu/) -->
+<!-- [![](https://myweb.uiowa.edu/dksewell/pathome/Block-IOWA-GOLD-ffcd00-TM.png)](https://uiowa.edu/) -->
+
+
+
+![](https://myweb.uiowa.edu/dksewell/pathome/sabin_gaire.png){fig-align="left" width=15%} Sabin Gaire (Graduate Research Assistant)
+
+![](https://myweb.uiowa.edu/dksewell/pathome/fanta_gutema.jpg){fig-align="left" width=15%} Fanta Gutema (Post-doctoral Fellow)
+
+
+![](https://myweb.uiowa.edu/dksewell/pathome/daniel_kakou.jpg){fig-align="left" width=15%} Daniel Kakou (Graduate Research Assistant)
+
+
+<!-- ![](https://myweb.uiowa.edu/dksewell/pathome/){fig-align="left" width=15%} --> Alexis Kapanka (Laboratory Manager)
+
+
+
+<!-- ![](https://myweb.uiowa.edu/dksewell/pathome/){fig-align="left" width=15%} --> John Kessler (Graduate Research Assistant)
+
+![](https://myweb.uiowa.edu/dksewell/pathome/krysan_mark.jpg){fig-align="left" width=15%} Mark Krysan (Graduate Research Assistant)
+
+
+![](https://myweb.uiowa.edu/dksewell/pathome/sriram_pemmaraju.jpg){fig-align="left" width=15%} Sriram Pemmaraju (Co-investigator)
+
+![](https://myweb.uiowa.edu/dksewell/pathome/dan_sewell.jpg){fig-align="left" width=15%} Daniel Sewell (Principal Investigator)
+
+![](https://myweb.uiowa.edu/dksewell/pathome/luis_torres.jpg){fig-align="left" width=15%} Luis Torres (Graduate Research Assistant)
+
+![](https://myweb.uiowa.edu/dksewell/pathome/gabriele_villarini.jpg){fig-align="left" width=15%} Gabriele Villarini (Co-investigator)
+
+
+# African Population and Health Research Center
+
+[![](https://myweb.uiowa.edu/dksewell/pathome/aphrc_logo2-trimmed.jpg){width=40% fig-align="left"}](https://aphrc.org/)
+
+![](https://myweb.uiowa.edu/dksewell/pathome/john_agira.jpg){fig-align="left" width=15%} John Agira (Laboratory Assistant)
+
+![](https://myweb.uiowa.edu/dksewell/pathome/christine_amondi.jpg){fig-align="left" width=15%} Christine Amondi (Laboratory Assistant)
+
+![](https://myweb.uiowa.edu/dksewell/pathome/phylis_busienei.jpg){fig-align="left" width=15%} Phylis Busienei (Study Coordinator)
+
+![](https://myweb.uiowa.edu/dksewell/pathome/blessing_mberu.jpg){fig-align="left" width=15%} Blessing Mberu (Co-investigator)
+
+![](https://myweb.uiowa.edu/dksewell/pathome/bonphace_okoth.jpg){fig-align="left" width=15%} Bonphace Okoth (Laboratory Assistant)
+
+![](https://myweb.uiowa.edu/dksewell/pathome/sheillah_simiyu.jpg){fig-align="left" width=15%} Sheillah Simiyu (Co-investigator)
+
+![](https://myweb.uiowa.edu/dksewell/pathome/innocent_tumwebaze.jpg){fig-align="left" width=15%} Innocent Tumwebaze (Project Manager)
+
+![](https://myweb.uiowa.edu/dksewell/pathome/abdhalah_ziraba.jpg){fig-align="left" width=15%} Abdhalah Ziraba (Co-investigator)
+
+
+# Maseno University
+
+[![](https://myweb.uiowa.edu/dksewell/pathome/maseno.png){fig-align="left" width=40%}](https://www.maseno.ac.ke/)
+
+
+![](https://myweb.uiowa.edu/dksewell/pathome/jairus_abuom.jpg){fig-align="left width=15%} Jairus Abuom (Laboratory Assistant)
+
+![](https://myweb.uiowa.edu/dksewell/pathome/collins_ouma.png){fig-align="left" width=15%} Collins Ouma (Co-investigator)
+
+![](https://myweb.uiowa.edu/dksewell/pathome/marsha_sharon.jpg){fig-align="left" width=15%} Marsha Sharon (Laboratory Assistant)
+
+
+# Affiliates
+
+![](https://myweb.uiowa.edu/dksewell/pathome/abisola_osinuga.jpg){fig-align="left" width=15%} Abisola Osinuga (Co-investigator, University of North Carolina)
+
+
+
+## By domain
+
+# Microbiology and Epidemiology
+
+![](https://myweb.uiowa.edu/dksewell/pathome/micro_epi_icon-from_public_domain.jpg){fig-align="left" width=40%}
+
+![](https://myweb.uiowa.edu/dksewell/pathome/jairus_abuom.jpg){fig-align="left width=15%} Jairus Abuom (Laboratory Assistant)
+
+
+![](https://myweb.uiowa.edu/dksewell/pathome/john_agira.jpg){fig-align="left" width=15%} John Agira (Laboratory Assistant)
+
+![](https://myweb.uiowa.edu/dksewell/pathome/christine_amondi.jpg){fig-align="left" width=15%} Christine Amondi (Laboratory Assistant)
+
+![](https://myweb.uiowa.edu/dksewell/pathome/kelly_baker.jpg){fig-align="left" width=15%} Kelly Baker (Principal Investigator)
+
+![](https://myweb.uiowa.edu/dksewell/pathome/fanta_gutema.jpg){fig-align="left" width=15%} Fanta Gutema (Post-doctoral Fellow)
+
+<!--![](https://myweb.uiowa.edu/dksewell/pathome/){fig-align="left" width=15%}--> Alexis Kapanka (Laboratory Manager)
+
+![](https://myweb.uiowa.edu/dksewell/pathome/bonphace_okoth.jpg){fig-align="left" width=15%} Bonphace Okoth (Laboratory Assistant)
+
+![](https://myweb.uiowa.edu/dksewell/pathome/collins_ouma.jpg){fig-align="left" width=15%} Collins Ouma (Co-investigator)
+
+![](https://myweb.uiowa.edu/dksewell/pathome/marsha_sharon.jpg){fig-align="left" width=15%} Marsha Sharon (Laboratory Assistant)
+
+
+![](https://myweb.uiowa.edu/dksewell/pathome/abdhalah_ziraba.jpg){fig-align="left" width=15%} Abdhalah Ziraba (Co-investigator)
+
+
+# Statistics and Computer Science
+
+![](https://myweb.uiowa.edu/dksewell/pathome/stat_cs_icon-from_stable_diffusion.jpg){fig-align="left" width=40%}
+
+![](https://myweb.uiowa.edu/dksewell/pathome/sabin_gaire.png){fig-align="left" width=15%} Sabin Gaire (Graduate Research Assistant)
+
+![](https://myweb.uiowa.edu/dksewell/pathome/daniel_kakou.jpg){fig-align="left" width=15%} Daniel Kakou (Graduate Research Assistant)
+
+
+
+![](https://myweb.uiowa.edu/dksewell/pathome/krysan_mark.jpg){fig-align="left" width=15%} Mark Krysan (Graduate Research Assistant)
+
+
+<!-- ![](https://myweb.uiowa.edu/dksewell/pathome/){fig-align="left" width=15%} --> John Kessler (Graduate Research Assistant)
+
+
+
+![](https://myweb.uiowa.edu/dksewell/pathome/sriram_pemmaraju.jpg){fig-align="left" width=15%} Sriram Pemmaraju (Co-investigator)
+
+![](https://myweb.uiowa.edu/dksewell/pathome/dan_sewell.jpg){fig-align="left" width=15%} Daniel Sewell (Principal Investigator)
+
+
+# Community and Behavioral Science
+
+![](https://myweb.uiowa.edu/dksewell/pathome/comm_beh_icon-from_public_domain.jpg){fig-align="left" width=40%}
+
+![](https://myweb.uiowa.edu/dksewell/pathome/phylis_busienei.jpg){fig-align="left" width=15%} Phylis Busienei (Study Coordinator)
+
+![](https://myweb.uiowa.edu/dksewell/pathome/abisola_osinuga.jpg){fig-align="left" width=15%} Abisola Osinuga (Co-investigator)
+
+
+![](https://myweb.uiowa.edu/dksewell/pathome/sheillah_simiyu.jpg){fig-align="left" width=15%} Sheillah Simiyu (Co-investigator)
+
+![](https://myweb.uiowa.edu/dksewell/pathome/innocent_tumwebaze.jpg){fig-align="left" width=15%} Innocent Tumwebaze (Project Manager)
+
+
+
+# Demography and Urban Policy
+
+![](https://myweb.uiowa.edu/dksewell/pathome/kibera.jpg){fig-align="left" width=40%}
+
+![](https://myweb.uiowa.edu/dksewell/pathome/blessing_mberu.jpg){fig-align="left" width=15%} Blessing Mberu (Co-investigator)
+
+
+# Climate Science
+
+![](https://myweb.uiowa.edu/dksewell/pathome/climate_science_icon-from_public_domain.jpg){fig-align="left" width=40%}
+
+![](https://myweb.uiowa.edu/dksewell/pathome/luis_torres.jpg){fig-align="left" width=15%} Luis Torres (Graduate Research Assistant)
+
+![](https://myweb.uiowa.edu/dksewell/pathome/gabriele_villarini.jpg){fig-align="left" width=15%} Gabriele Villarini (Co-investigator)
+
+
+
+:::
+
+
