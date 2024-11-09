@@ -3,8 +3,6 @@ library(janitor)
 library(tidyverse)
 library(magrittr)
 library(Matrix)
-# library(ggmap)
-# register_google(key = "AIzaSyDlQEHipSkLJprz6shdeRUwLFMUlXVNHs8")
 
 library(OpenStreetMap)
 library(ggplot2)
