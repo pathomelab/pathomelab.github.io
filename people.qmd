@@ -107,7 +107,6 @@ lightbox: true
 ![](https://myweb.uiowa.edu/dksewell/pathome/abisola_osinuga.jpg){fig-align="left" width=15%} Abisola Osinuga (Co-investigator, University of North Carolina)
 
 
-
 ## By domain
 
 # Microbiology and Epidemiology
@@ -193,5 +192,4 @@ lightbox: true
 
 
 :::
-
 

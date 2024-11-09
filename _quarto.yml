@@ -8,13 +8,13 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
       - people.qmd
       - dissemination.qmd
-      # - related_work.qmd
       - study_design.qmd
       - geotracking.qmd
+      - about.qmd
       - contact_us.qmd
+  back-to-top-navigation: true
 
 format:
   html:
