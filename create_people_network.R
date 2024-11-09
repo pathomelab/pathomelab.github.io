@@ -35,31 +35,31 @@ nodes <- data.frame(
       rep("Maseno Univ.",3),
       "Univ. N. Carolina"),
   image = 
-    paste("C:/Users/dksewell/Documents/pathomelab.github.io/",
-          c("img/mugshots/kelly_baker.jpg",
-            "img/mugshots/fanta_gutema.jpg",
-            "img/mugshots/blessing_mberu.jpg",
-            "img/mugshots/john_agira.jpg",
-            "img/mugshots/christine_amondi.jpg",
-            "img/mugshots/phylis_busienei.jpg",
-            "img/mugshots/bonphace_okoth.jpg",
-            "img/mugshots/sheillah_simiyu.jpg",
-            "img/mugshots/innocent_tumwebaze.jpg",
-            "img/mugshots/abdhalah_ziraba.jpg",
-            "img/mugshots/sewell-mugshot.jpg",
-            "img/mugshots/sriram_pemmaraju.jpg",
-            "img/mugshots/sabin_gaire.png",
-            "img/mugshots/daniel_kakou.jpg",
-            "img/mugshots/alexis_kapanka.jpg",
-            "img/mugshots/luis_torres.jpg",
-            "img/mugshots/krysan_mark.jpg",
-            "img/mugshots/gabriele_villarini.jpg",
-            "Block IOWA GOLD-ffcd00-TM.png",
-            "img/mugshots/tan_nguyen.jpg",
-            "img/mugshots/collins_ouma.png",
-            "img/mugshots/jairus_abuom.jpg",
-            "img/mugshots/marsha_sharon.jpg",
-            "img/mugshots/abisola_osinuga.jpg"),
+    paste("https://myweb.uiowa.edu/dksewell/pathome",
+          c("kelly_baker.jpg",
+            "fanta_gutema.jpg",
+            "blessing_mberu.jpg",
+            "john_agira.jpg",
+            "christine_amondi.jpg",
+            "phylis_busienei.jpg",
+            "bonphace_okoth.jpg",
+            "sheillah_simiyu.jpg",
+            "innocent_tumwebaze.jpg",
+            "abdhalah_ziraba.jpg",
+            "sewell-mugshot.jpg",
+            "sriram_pemmaraju.jpg",
+            "sabin_gaire.png",
+            "daniel_kakou.jpg",
+            "alexis_kapanka.jpg",
+            "luis_torres.jpg",
+            "krysan_mark.jpg",
+            "gabriele_villarini.jpg",
+            "",# "Block IOWA GOLD-ffcd00-TM.png",
+            "tan_nguyen.jpg",
+            "collins_ouma.png",
+            "jairus_abuom.jpg",
+            "marsha_sharon.jpg",
+            "abisola_osinuga.jpg"),
           sep = "/")#,
   # email = c("kkbaker@buffalo.edu", 
   #           "daniel-sewell@uiowa.edu",
@@ -68,8 +68,6 @@ nodes <- data.frame(
 ) %>% 
   mutate(id = 1:n(),
          shape = "image", image = image)
-nodes %>% 
-  select(id,label)
 edges = 
   rbind(c(1,2),
         c(1,3),
@@ -111,4 +109,5 @@ visNetwork(nodes, edges) %>%
     #   useLabels = TRUE
     # )
   ) %>% 
-  saveWidget("C:/Users/dksewell/Documents/pathomelab.github.io/people_network.html")
+  saveWidget("C:/Users/dksewell/Documents/pathomelab.github.io/people_network.html",
+             selfcontained = TRUE)

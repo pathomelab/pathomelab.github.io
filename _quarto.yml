@@ -11,7 +11,7 @@ website:
       - about.qmd
       - people.qmd
       - dissemination.qmd
-      - related_work.qmd
+      # - related_work.qmd
       - study_design.qmd
       - geotracking.qmd
       - contact_us.qmd
