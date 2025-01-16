@@ -1,3 +1,4 @@
+library(dplyr)
 library(magrittr)
 library(visNetwork)
 library(htmlwidgets)
@@ -26,14 +27,16 @@ nodes <- data.frame(
             "Collins Ouma",
             "Jairus Abuom",
             "Marsha Sharon",
-            "Abisola Osinuga"),
+            "Abisola Osinuga",
+            "Ellie Madson"),
   group = 
     c("SUNY Buffalo",
       "Univ. of Memphis",
       rep("APHRC",8),
       rep("Univ. of Iowa",10),
       rep("Maseno Univ.",3),
-      "Univ. N. Carolina"),
+      "Univ. N. Carolina",
+      "SUNY Buffalo"),
   image = 
     paste("https://myweb.uiowa.edu/dksewell/pathome",
           c("kelly_baker.jpg",
@@ -59,7 +62,8 @@ nodes <- data.frame(
             "collins_ouma.png",
             "jairus_abuom.jpg",
             "marsha_sharon.jpg",
-            "abisola_osinuga.jpg"),
+            "abisola_osinuga.jpg",
+            "ellie_madson.jpg"),
           sep = "/")#,
   # email = c("kkbaker@buffalo.edu", 
   #           "daniel-sewell@uiowa.edu",
@@ -80,6 +84,7 @@ edges =
         c(1,18),
         c(1,21),
         c(1,24),
+        c(1,25),
         c(3,6),
         c(3,8),
         c(3,9),

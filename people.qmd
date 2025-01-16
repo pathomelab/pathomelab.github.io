@@ -19,6 +19,9 @@ lightbox: true
 
 ![](https://myweb.uiowa.edu/dksewell/pathome/kelly_baker.jpg){fig-align="left" width=15%} Kelly Baker (Principal Investigator)
 
+![](https://myweb.uiowa.edu/dksewell/pathome/ellie_madson.jpg){fig-align="left" width=15%} Ellie Madson (Laboratory Manager & Project Coordinator)
+
+
 
 # University of Iowa
 
@@ -125,6 +128,10 @@ lightbox: true
 ![](https://myweb.uiowa.edu/dksewell/pathome/fanta_gutema.jpg){fig-align="left" width=15%} Fanta Gutema (Post-doctoral Fellow)
 
 <!--![](https://myweb.uiowa.edu/dksewell/pathome/){fig-align="left" width=15%}--> Alexis Kapanka (Laboratory Manager)
+
+
+![](https://myweb.uiowa.edu/dksewell/pathome/ellie_madson.jpg){fig-align="left" width=15%} Ellie Madson (Laboratory Manager & Project Coordinator)
+
 
 ![](https://myweb.uiowa.edu/dksewell/pathome/bonphace_okoth.jpg){fig-align="left" width=15%} Bonphace Okoth (Laboratory Assistant)
 
