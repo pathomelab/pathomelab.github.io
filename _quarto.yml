@@ -18,8 +18,9 @@ website:
 
 format:
   html:
-    theme: darkly
+    theme: superhero
     css: styles.css
+    page-layout: full
     toc: true
     toc-location: left
     toc-title: ""
