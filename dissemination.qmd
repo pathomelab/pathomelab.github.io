@@ -7,18 +7,34 @@ format:
     toc: false
 ---
 
-## [:Baker, Kelly K., Sheillah Simiyu, Phylis Busienei, Fanta D. Gutema, Bonphace Okoth, John Agira, Christine S. Amondi, et al. 2023. “Protocol for the PATHOME Study: A Cohort Study on Urban Societal Development and the Ecology of Enteric Disease Transmission Among Infants, Domestic Animals and the Environment.” BMJ Open 13 (November): e076067.](#baker2024protocol)
-Click [here](https://bmjopen.bmj.com/content/13/11/e076067) for the paper.
+
+
+## [:Tumwebaze, I. K., Krysan, M., Busienei, P. K., Simiyu, S., Mberu, B., Sewell, D. K., & Baker, K. K. 2025. "Domestic Animals and Hygiene on Infants’ Risk of Contact and Exposure to Animal Faeces in Urban Neighbourhoods in Kenya." One Health](#tumwebaze2025domestic)
+Click [here](https://doi.org/10.1016/j.onehlt.2025.101217) for the paper.
 
 **ABSTRACT:**
 
-Introduction. Global morbidity from enteric infections and diarrhoea remains high in children in low-income and middle-income countries, despite significant investment over recent decades in health systems and water and sanitation infrastructure. Other types of societal development may be required to reduce disease burden. Ecological research on the influence of household and neighbourhood societal development on pathogen transmission dynamics between humans, animals and the environment could identify more effective strategies for preventing enteric infections.
-
-Methods and analysis. The ‘enteric pathome’—that is, the communities of viral, bacterial and parasitic pathogens transmitted from human and animal faeces through the environment is taxonomically complex in high burden settings. This integrated cohort-exposure assessment study leverages natural socioeconomic spectrums of development to study how pathome complexity is influenced by household and neighbourhood infrastructure and hygiene conditions. We are enrolling under 12-month-old children in low-income and middle-income neighbourhoods of two Kenyan cities (Nairobi and Kisumu) into a ‘short-cohort’ study involving repeat testing of child faeces for enteric pathogens. A mid-study exposure assessment documenting infrastructural, behavioural, spatial, climate, environmental and zoonotic factors characterises pathogen exposure pathways in household and neighbourhood settings. These data will be used to inform and validate statistical and agent-based models (ABM) that identify individual or combined intervention strategies for reducing multipathogen transmission between humans, animals and environment in urban Kenya.
-
-Ethics and dissemination. The protocols for human subjects’ research were approved by Institutional Review Boards at the University of Iowa (ID-202004606) and AMREF Health Africa (ID-ESRC P887/2020), and a national permit was obtained from the Kenya National Commission for Science Technology and Innovation (ID# P/21/8441). The study was registered on Clinicaltrials.gov (Identifier: NCT05322655) and is in pre-results stage. Protocols for research on animals were approved by the University of Iowa Animal Care and Use Committee (ID 0042302).
+Contact with animals or their faeces could expose infants to zoonotic pathogens associated with diarrheal infections in infants. This study investigated the risk of infants' exposure to domestic animals and their faeces in low- and middle-income urban neighbourhoods in Kenya. A total of 275 caregivers with infants aged 0–12 months from low- income and middle-income neighbourhoods in Nairobi and Kisumu were enrolled in a cohort prospective study and completed the survey. Of these, 136 belonged to low-income and 139 to middle-income neighbourhoods. To ensure balanced recruitment of infants in each neighbourhood, community health promoters who provided a listing of caregivers and their infants aged 0–12 months to form the sampling frame. Recruitment was based on the target for each infant age cluster. Negative Binomial, Zero-Inflated Poisson (ZIP), and Zero-Inflated Negative Binomial (ZINB) regression models were used to test for the rate of infant contact (per hour) with animals and animal faeces and logistic regression for infant exposure to surfaces contaminated with animal faeces. Bayes factors were used for model selection. Overall, 27.9 % of the studied low-income neighbourhood households and 30.9 % of those in middle-income neighbourhoods owned domestic animals. Infants in households who owned cats had a 109 % increase (95 %CI = 59 %, 173 %) in contact compared to non-cat owning households. There was a 22 % decrease (95 %CI = 7 %, 42 %) in infant contact with non-feline animals compared to households that did not own them. The rate of contact with animals, animal faeces, or surfaces polluted by animal faeces increased with age. Full penning of household owned animals reduced the rate of infant contact with animal faeces by 93 % (95 %CI = 16 %, 99.7 %), compared to no penning, and reduced the odds of infant contact with a contaminated surface by 97 % (95 %CI = 42 %–99.9 %), compared to no penning. Self-reported animal faeces disposal practices were not significantly associated with a reduced rate of infant contact with animal faeces or touching surfaces contaminated by animal faeces. The study findings infants in households that owned cats have an increased contact with them while full penning of domestic animals is associated with reduced risk of exposure to animal faeces or contaminated surfaces.
 
 ---
+
+
+
+
+
+
+## [:Sewell, Daniel K., and Kelly K. Baker. 2025. “Estimating Risk Factors for Pathogenic Dose Accrual from Longitudinal Data.” Statistics in Medicine 44 (23-24): e70291](#sewell2024estimating)
+Click [here](https://doi.org/10.1002/sim.70291) for the paper.
+
+**ABSTRACT:**
+Estimating risk factors for the incidence of a disease is crucial for understanding its etiology. For diseases caused by enteric pathogens, off-the-shelf statistical model-based approaches do not consider the biological mechanisms through which infection occurs and thus can only be used to make comparatively weak statements about the association between risk factors and incidence. Building off of established work in quantitative microbiological risk assessment, we propose a new approach to determining the association between risk factors and dose accrual rates. Our more mechanistic approach achieves a higher degree of biological plausibility, incorporates currently ignored sources of variability, and provides regression parameters that are easily interpretable as the dose accrual rate ratio due to changes in the risk factors under study. We also describe a method for leveraging information across multiple pathogens. The proposed methods are available as an R package at <a href = "https://github.com/dksewell/dare">https://github.com/dksewell/dare</a>. Our simulation study shows unacceptable coverage rates from generalized linear models, while the proposed approach empirically maintains the nominal rate even when the model is misspecified. Finally, we demonstrated our proposed approach by applying our method to infant data obtained through the PATHOME study (<a href="https://reporter.nih.gov/project-details/10227256">https://reporter.nih.gov/project-details/10227256</a>), discovering the impact of various environmental factors on infant enteric infections.
+
+---
+
+
+
+
+
 
 ## [:Busienei, Phylis J., Sheillah Simiyu, Daniel K. Sewell, Abisola Osinuga, and Kelly K. Baker. 2024. “Development of a Protocol for Using Geo-Trackers to Identify Zoonotic Enteric Pathogen Transmission Pathways in a Pilot Study in Kenya.” CABI One Health.](#busienei2024development)
 Click [here](https://doi.org/10.1079/cabionehealth.2024.0011) for the paper.
@@ -61,14 +77,19 @@ Conclusion. Policies are central to guiding programmatic actions towards effecti
 ---
 
 
-
-## [:Sewell, Daniel K., and Kelly K. Baker. 2024. “Estimating Risk Factors for Pathogenic Dose Accrual from Longitudinal Data.”](#sewell2024estimating)
-Click [here](https://arxiv.org/abs/2407.20051) for the paper.
+## [:Baker, Kelly K., Sheillah Simiyu, Phylis Busienei, Fanta D. Gutema, Bonphace Okoth, John Agira, Christine S. Amondi, et al. 2023. “Protocol for the PATHOME Study: A Cohort Study on Urban Societal Development and the Ecology of Enteric Disease Transmission Among Infants, Domestic Animals and the Environment.” BMJ Open 13 (November): e076067.](#baker2024protocol)
+Click [here](https://bmjopen.bmj.com/content/13/11/e076067) for the paper.
 
 **ABSTRACT:**
-Estimating risk factors for incidence of a disease is crucial for understanding its etiology. For diseases caused by enteric pathogens, off-the-shelf statistical model-based approaches do not consider the biological mechanisms through which infection occurs and thus can only be used to make comparatively weak statements about association between risk factors and incidence. Building off of established work in quantitative microbiological risk assessment, we propose a new approach to determining the association between risk factors and dose accrual rates. Our more mechanistic approach achieves a higher degree of biological plausibility, incorporates currently-ignored sources of variability, and provides regression parameters that are easily interpretable as the dose accrual rate ratio due to changes in the risk factors under study. We also describe a method for leveraging information across multiple pathogens. The proposed methods are available as an R package at <a href = "https://github.com/dksewell/dare">https://github.com/dksewell/dare</a>. Our simulation study shows unacceptable coverage rates from generalized linear models, while the proposed approach empirically maintains the nominal rate even when the model is misspecified. Finally, we demonstrated our proposed approach by applying our method to infant data obtained through the PATHOME study (<a href="https://reporter.nih.gov/project-details/10227256">https://reporter.nih.gov/project-details/10227256</a>), discovering the impact of various environmental factors on infant enteric infections.
+
+Introduction. Global morbidity from enteric infections and diarrhoea remains high in children in low-income and middle-income countries, despite significant investment over recent decades in health systems and water and sanitation infrastructure. Other types of societal development may be required to reduce disease burden. Ecological research on the influence of household and neighbourhood societal development on pathogen transmission dynamics between humans, animals and the environment could identify more effective strategies for preventing enteric infections.
+
+Methods and analysis. The ‘enteric pathome’—that is, the communities of viral, bacterial and parasitic pathogens transmitted from human and animal faeces through the environment is taxonomically complex in high burden settings. This integrated cohort-exposure assessment study leverages natural socioeconomic spectrums of development to study how pathome complexity is influenced by household and neighbourhood infrastructure and hygiene conditions. We are enrolling under 12-month-old children in low-income and middle-income neighbourhoods of two Kenyan cities (Nairobi and Kisumu) into a ‘short-cohort’ study involving repeat testing of child faeces for enteric pathogens. A mid-study exposure assessment documenting infrastructural, behavioural, spatial, climate, environmental and zoonotic factors characterises pathogen exposure pathways in household and neighbourhood settings. These data will be used to inform and validate statistical and agent-based models (ABM) that identify individual or combined intervention strategies for reducing multipathogen transmission between humans, animals and environment in urban Kenya.
+
+Ethics and dissemination. The protocols for human subjects’ research were approved by Institutional Review Boards at the University of Iowa (ID-202004606) and AMREF Health Africa (ID-ESRC P887/2020), and a national permit was obtained from the Kenya National Commission for Science Technology and Innovation (ID# P/21/8441). The study was registered on Clinicaltrials.gov (Identifier: NCT05322655) and is in pre-results stage. Protocols for research on animals were approved by the University of Iowa Animal Care and Use Committee (ID 0042302).
 
 ---
+
 
 
 
