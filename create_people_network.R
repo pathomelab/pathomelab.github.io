@@ -64,7 +64,7 @@ nodes <- data.frame(
             "marsha_sharon.jpg",
             "abisola_osinuga.jpg",
             "ellie_madson.jpg"),
-          sep = "/")#,
+          sep = "")#,
   # email = c("kkbaker@buffalo.edu", 
   #           "daniel-sewell@uiowa.edu",
   #           "bmberu@aphrc.org",
@@ -114,5 +114,5 @@ visNetwork(nodes, edges) %>%
     #   useLabels = TRUE
     # )
   ) %>% 
-  saveWidget("C:/Users/dksewell/Documents/pathomelab.github.io/people_network.html",
-             selfcontained = TRUE)
+  saveWidget("C:/Users/dksewell/Documents/pathomelab.github.io/docs/people_network.html",
+             selfcontained = FALSE)

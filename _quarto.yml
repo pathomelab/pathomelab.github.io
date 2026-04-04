@@ -1,6 +1,9 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - people_network.html
+    - img/
 
 website:
   title: "PATHOME"
@@ -24,5 +27,4 @@ format:
     toc: true
     toc-location: left
     toc-title: ""
-
 
