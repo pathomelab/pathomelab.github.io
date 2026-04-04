@@ -38,7 +38,7 @@ nodes <- data.frame(
       "Univ. N. Carolina",
       "SUNY Buffalo"),
   image = 
-    paste("https://myweb.uiowa.edu/dksewell/pathome",
+    paste("img/mugshots/",
           c("kelly_baker.jpg",
             "fanta_gutema.jpg",
             "blessing_mberu.jpg",
@@ -49,7 +49,7 @@ nodes <- data.frame(
             "sheillah_simiyu.jpg",
             "innocent_tumwebaze.jpg",
             "abdhalah_ziraba.jpg",
-            "sewell-mugshot.jpg",
+            "dan_sewell.jpg",
             "sriram_pemmaraju.jpg",
             "sabin_gaire.png",
             "daniel_kakou.jpg",
