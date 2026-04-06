@@ -5,6 +5,7 @@ project:
     - people_network.html
     - img/
 
+
 website:
   title: "PATHOME"
   navbar:
@@ -15,8 +16,10 @@ website:
       - dissemination.qmd
       - study_design.qmd
       - geotracking.qmd
+      - pathway_explorer.qmd
       - about.qmd
       - contact_us.qmd
+
   back-to-top-navigation: true
 
 format:
